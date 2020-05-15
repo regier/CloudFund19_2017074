@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024mm"
-   height="1024mm"
-   viewBox="0 0 1024 1024"
+   width="4096"
+   height="4096"
+   viewBox="0 0 1083.7333 1083.7333"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -25,6 +25,18 @@
      id="title3713">Digitech Graphics</title>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1059">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1055" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop1057" />
+    </linearGradient>
     <linearGradient
        id="linearGradient6227"
        osb:paint="solid">
@@ -42,6 +54,17 @@
        x2="1011.2453"
        y2="193.85475"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1059"
+       id="radialGradient1061"
+       cx="541.86665"
+       cy="176.43849"
+       fx="541.86665"
+       fy="176.43849"
+       r="541.86619"
+       gradientTransform="matrix(1,0,0,0.06673737,0,164.66345)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -51,8 +74,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.087549634"
-     inkscape:cx="1983.2153"
-     inkscape:cy="1793.198"
+     inkscape:cx="1982.0644"
+     inkscape:cy="1793.7551"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,8 +90,9 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="false"
-     inkscape:lockguides="true" />
+     inkscape:snap-global="true"
+     inkscape:lockguides="true"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -107,23 +131,25 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,727)">
+     transform="translate(0,786.73312)">
     <text
        id="text6513"
-       y="212.33325"
-       x="510.22696"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.64583333;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69343066;paint-order:markers stroke fill"
+       y="196.64333"
+       x="539.92798"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.54592896px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.89301705;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
        xml:space="preserve"><desc
-         id="desc6507">Elegant spaced logo</desc><title
-         id="title6509">DigiTech Audio Solution</title><tspan
+         id="desc6507"
+         style="stroke:url(#radialGradient1061)">Elegant spaced logo</desc><title
+         id="title6509"
+         style="stroke:url(#radialGradient1061)">DigiTech Audio Solution</title><tspan
          id="tspan6511"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:63.50000381px;line-height:63.5px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';text-align:center;letter-spacing:7.9375px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.64583333;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.69343066;paint-order:markers stroke fill"
-         y="212.33325"
-         x="514.19574"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:69.43242645px;line-height:69.43242645px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';text-align:center;letter-spacing:8.67905331px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.89301705;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;"
+         y="196.64333"
+         x="544.26752"
          sodipodi:role="line">DigiTech Audio Solutions</tspan></text>
     <g
        id="g3804"
-       transform="matrix(1.5486974,0,0,1.5486974,975.61363,-34.31382)">
+       transform="matrix(1.5486974,0,0,1.5486974,1005.4803,-81.043118)">
       <title
          id="title3806">SpeakerHead</title>
       <g
