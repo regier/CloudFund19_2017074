@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024mm"
+   height="1024mm"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="graphical_assets.svg"
+   inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/Digitech dot com/assets/favicons/favicon.iPhone_Retina.180x180.png"
+   inkscape:export-xdpi="4.4648438"
+   inkscape:export-ydpi="4.4648438">
+  <title
+     id="title3713">Digitech Graphics</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6227"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6225" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6227"
+       id="linearGradient6229"
+       x1="12.75467"
+       y1="193.85475"
+       x2="1011.2453"
+       y2="193.85475"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6847"
+       x="-0.076527039"
+       width="1.1530541"
+       y="-0.84908573"
+       height="2.6981715">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="31.752851"
+         id="feGaussianBlur6849" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12381388"
+     inkscape:cx="1823.9404"
+     inkscape:cy="1971.3188"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Digitech Graphics</dc:title>
+        <dc:date>15/05/2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Regier Kunkel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyleft</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,727)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.65494919;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter6847)"
+       id="path6711"
+       sodipodi:type="arc"
+       sodipodi:cx="512"
+       sodipodi:cy="193.85475"
+       sodipodi:rx="497.90796"
+       sodipodi:ry="44.875824"
+       sodipodi:start="0.26179939"
+       sodipodi:end="0"
+       d="M 992.94216,205.46947 A 497.90796,44.875824 0 0 1 414.86298,237.8683 497.90796,44.875824 0 0 1 18.351713,187.99728 497.90796,44.875824 0 0 1 544.56474,149.07501 497.90796,44.875824 0 0 1 1009.908,193.85475"
+       sodipodi:open="true" />
+    <text
+       id="text6513"
+       y="212.33325"
+       x="510.22696"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       xml:space="preserve"><desc
+         id="desc6507">Elegant spaced logo</desc><title
+         id="title6509">DigiTech Audio Solution</title><tspan
+         id="tspan6511"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:63.50000381px;line-height:63.5px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';text-align:center;letter-spacing:7.9375px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         y="212.33325"
+         x="514.19574"
+         sodipodi:role="line">DigiTech Audio Solutions</tspan></text>
+    <g
+       id="g3804"
+       transform="matrix(1.5486974,0,0,1.5486974,975.61363,-34.31382)">
+      <title
+         id="title3806">SpeakerHead</title>
+      <g
+         style="image-rendering:auto"
+         id="g3771">
+        <title
+           id="title3773">Headphones</title>
+        <path
+           id="circle3748"
+           style="fill:#666666;stroke:none;stroke-width:0.47895575"
+           sodipodi:type="arc"
+           sodipodi:cx="299.35715"
+           sodipodi:cy="138.42859"
+           sodipodi:rx="262.74146"
+           sodipodi:ry="262.74146"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           d="M 562.0986,138.42859 A 262.74146,262.74146 0 0 1 430.72787,365.96937 262.74146,262.74146 0 0 1 167.98641,365.96936 262.74146,262.74146 0 0 1 36.615692,138.42858 l 262.741458,1e-5 z"
+           transform="scale(-1)" />
+        <circle
+           id="path3742"
+           cx="-444.5"
+           cy="-138.42856"
+           r="145.14285"
+           style="fill:#0e232e;stroke:none;stroke-width:0.26458332" />
+        <circle
+           style="fill:#364e59;stroke:none;stroke-width:0.26458332"
+           r="145.14285"
+           cy="-138.42856"
+           cx="-154.21429"
+           id="circle3744" />
+      </g>
+      <path
+         id="path3750"
+         style="fill:#999999;stroke:none;stroke-width:0.41921619"
+         sodipodi:type="arc"
+         sodipodi:cx="299.35715"
+         sodipodi:cy="138.42859"
+         sodipodi:rx="224.25464"
+         sodipodi:ry="235.83107"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m 523.61179,138.42859 a 224.25464,235.83107 0 0 1 -112.12733,204.2357 224.25464,235.83107 0 0 1 -224.25464,-10e-6 224.25464,235.83107 0 0 1 -112.127311,-204.2357 l 224.254641,1e-5 z"
+         transform="scale(-1)" />
+      <circle
+         id="circle3746"
+         cx="-299.35715"
+         cy="-138.42857"
+         r="224.25464"
+         style="fill:#9eabb0;stroke:none;stroke-width:0.4087975" />
+      <g
+         transform="translate(-107.5916,-70.040352)"
+         id="g3764">
+        <title
+           id="title3785">Pair Of Eyes</title>
+        <circle
+           id="circle3752"
+           cx="-299.35715"
+           cy="-138.42856"
+           r="70.040352"
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772" />
+        <circle
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658"
+           r="47.361782"
+           cy="-138.42854"
+           cx="-299.35715"
+           id="circle3754" />
+        <circle
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772"
+           r="70.040352"
+           cy="-138.42856"
+           cx="-84.173943"
+           id="circle3756" />
+        <circle
+           id="circle3758"
+           cx="-84.173943"
+           cy="-138.42854"
+           r="47.361782"
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658" />
+      </g>
+      <g
+         id="g3781">
+        <title
+           id="title3783">Speaker Mouth</title>
+        <circle
+           id="circle3766"
+           cx="-299.35715"
+           cy="-42.685822"
+           r="95.742737"
+           style="fill:#2d2d2d;stroke:none;stroke-width:0.17453101" />
+        <circle
+           style="fill:#666666;stroke:none;stroke-width:0.13318987"
+           r="73.064163"
+           cy="-42.685814"
+           cx="-299.35715"
+           id="circle3775" />
+      </g>
+    </g>
+    <g
+       id="g3804-4"
+       transform="translate(-649.98421,283.61949)">
+      <title
+         id="title3806-9">SpeakerHead</title>
+      <g
+         style="image-rendering:auto"
+         id="g3771-2">
+        <title
+           id="title3773-5">Headphones</title>
+        <path
+           id="circle3748-7"
+           style="fill:#666666;stroke:none;stroke-width:0.47895575"
+           sodipodi:type="arc"
+           sodipodi:cx="299.35715"
+           sodipodi:cy="138.42859"
+           sodipodi:rx="262.74146"
+           sodipodi:ry="262.74146"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           d="M 562.0986,138.42859 A 262.74146,262.74146 0 0 1 430.72787,365.96937 262.74146,262.74146 0 0 1 167.98641,365.96936 262.74146,262.74146 0 0 1 36.615692,138.42858 l 262.741458,1e-5 z"
+           transform="scale(-1)" />
+        <circle
+           id="path3742-4"
+           cx="-444.5"
+           cy="-138.42856"
+           r="145.14285"
+           style="fill:#0e232e;stroke:none;stroke-width:0.26458332" />
+        <circle
+           style="fill:#364e59;stroke:none;stroke-width:0.26458332"
+           r="145.14285"
+           cy="-138.42856"
+           cx="-154.21429"
+           id="circle3744-9" />
+      </g>
+      <path
+         id="path3750-9"
+         style="fill:#999999;stroke:none;stroke-width:0.41921619"
+         sodipodi:type="arc"
+         sodipodi:cx="299.35715"
+         sodipodi:cy="138.42859"
+         sodipodi:rx="224.25464"
+         sodipodi:ry="235.83107"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m 523.61179,138.42859 a 224.25464,235.83107 0 0 1 -112.12733,204.2357 224.25464,235.83107 0 0 1 -224.25464,-10e-6 224.25464,235.83107 0 0 1 -112.127311,-204.2357 l 224.254641,1e-5 z"
+         transform="scale(-1)" />
+      <circle
+         id="circle3746-4"
+         cx="-299.35715"
+         cy="-138.42857"
+         r="224.25464"
+         style="fill:#9eabb0;stroke:none;stroke-width:0.4087975" />
+      <g
+         transform="translate(-107.5916,-70.040352)"
+         id="g3764-5">
+        <title
+           id="title3785-9">Pair Of Eyes</title>
+        <circle
+           id="circle3752-3"
+           cx="-299.35715"
+           cy="-138.42856"
+           r="70.040352"
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772" />
+        <circle
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658"
+           r="47.361782"
+           cy="-138.42854"
+           cx="-299.35715"
+           id="circle3754-5" />
+        <circle
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772"
+           r="70.040352"
+           cy="-138.42856"
+           cx="-84.173943"
+           id="circle3756-7" />
+        <circle
+           id="circle3758-0"
+           cx="-84.173943"
+           cy="-138.42854"
+           r="47.361782"
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658" />
+      </g>
+      <g
+         id="g3781-8">
+        <title
+           id="title3783-1">Speaker Mouth</title>
+        <circle
+           id="circle3766-9"
+           cx="-299.35715"
+           cy="-42.685822"
+           r="95.742737"
+           style="fill:#2d2d2d;stroke:none;stroke-width:0.17453101" />
+        <circle
+           style="fill:#666666;stroke:none;stroke-width:0.13318987"
+           r="73.064163"
+           cy="-42.685814"
+           cx="-299.35715"
+           id="circle3775-9" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#364e59;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-882.69342"
+       y="601.99146"
+       id="text3736-7"><desc
+         id="desc3812-8">Elegant spaced logo</desc><title
+         id="title3810-2">DigiTech Audio Solution</title><tspan
+         sodipodi:role="line"
+         x="-878.72467"
+         y="601.99146"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:63.50000381px;line-height:63.5px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';text-align:center;letter-spacing:7.9375px;text-anchor:middle;fill:#364e59;stroke-width:0.26458332"
+         id="tspan3738-5">DigiTech Audio Solutions</tspan></text>
+    <g
+       id="g3804-3"
+       transform="matrix(0.93333336,0,0,0.93333324,-257.92788,-253.62554)"
+       style="image-rendering:optimizeQuality"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/Digitech dot com/assets/favicons/favicon.iPad__Retina.167x167.png"
+       inkscape:export-xdpi="7.8299999"
+       inkscape:export-ydpi="7.8299999">
+      <title
+         id="title3806-6">SpeakerHead FavIcon</title>
+      <g
+         style="image-rendering:auto"
+         id="g3771-7">
+        <title
+           id="title3773-53">Headphones</title>
+        <path
+           id="circle3748-5"
+           style="fill:#666666;stroke:none;stroke-width:0.55776244"
+           sodipodi:type="arc"
+           sodipodi:cx="299.35715"
+           sodipodi:cy="138.42859"
+           sodipodi:rx="262.74146"
+           sodipodi:ry="356.31683"
+           sodipodi:start="0"
+           sodipodi:end="3.1415927"
+           d="M 562.0986,138.42859 A 262.74146,356.31683 0 0 1 430.72787,447.00802 262.74146,356.31683 0 0 1 167.98641,447.00801 262.74146,356.31683 0 0 1 36.615692,138.42857 l 262.741458,2e-5 z"
+           transform="scale(-1)" />
+        <circle
+           id="path3742-6"
+           cx="-444.5"
+           cy="-138.42856"
+           r="145.14285"
+           style="fill:#0e232e;stroke:none;stroke-width:0.26458332" />
+        <circle
+           style="fill:#364e59;stroke:none;stroke-width:0.26458332"
+           r="145.14285"
+           cy="-138.42856"
+           cx="-154.21429"
+           id="circle3744-2" />
+      </g>
+      <path
+         id="path3750-91"
+         style="fill:#999999;stroke:none;stroke-width:0.4760958"
+         sodipodi:type="arc"
+         sodipodi:cx="299.35715"
+         sodipodi:cy="138.42859"
+         sodipodi:rx="224.25464"
+         sodipodi:ry="304.16806"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="M 523.61179,138.42859 A 224.25464,304.16806 0 0 1 411.48446,401.84586 224.25464,304.16806 0 0 1 187.22982,401.84585 224.25464,304.16806 0 0 1 75.102509,138.42857 l 224.254641,2e-5 z"
+         transform="scale(-1)" />
+      <circle
+         id="circle3746-2"
+         cx="-299.35715"
+         cy="-138.42857"
+         r="224.25464"
+         style="fill:#9eabb0;stroke:none;stroke-width:0.4087975" />
+      <g
+         transform="translate(-107.5916,-70.040352)"
+         id="g3764-7">
+        <title
+           id="title3785-0">Pair Of Eyes</title>
+        <circle
+           id="circle3752-9"
+           cx="-299.35715"
+           cy="-138.42856"
+           r="70.040352"
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772" />
+        <circle
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658"
+           r="47.361782"
+           cy="-138.42854"
+           cx="-299.35715"
+           id="circle3754-3" />
+        <circle
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772"
+           r="70.040352"
+           cy="-138.42856"
+           cx="-84.173943"
+           id="circle3756-6" />
+        <circle
+           id="circle3758-06"
+           cx="-84.173943"
+           cy="-138.42854"
+           r="47.361782"
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658" />
+      </g>
+      <g
+         id="g3781-2">
+        <title
+           id="title3783-6">Speaker Mouth</title>
+        <circle
+           id="circle3766-1"
+           cx="-299.35715"
+           cy="-42.685822"
+           r="95.742737"
+           style="fill:#2d2d2d;stroke:none;stroke-width:0.17453101" />
+        <circle
+           style="fill:#666666;stroke:none;stroke-width:0.13318987"
+           r="73.064163"
+           cy="-42.685814"
+           cx="-299.35715"
+           id="circle3775-8" />
+      </g>
+    </g>
+  </g>
+</svg>
