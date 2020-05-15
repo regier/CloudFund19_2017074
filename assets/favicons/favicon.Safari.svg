@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 16 16"
+   height="128"
+   width="128">
+  <title
+     id="title3713">Digitech Graphics</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1059">
+      <stop
+         id="stop1055"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop1057"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient6227">
+      <stop
+         id="stop6225"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="193.85475"
+       x2="1011.2453"
+       y1="193.85475"
+       x1="12.75467"
+       id="linearGradient6229"
+       xlink:href="#linearGradient6227" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.06673737,0,164.66345)"
+       r="541.86621"
+       fy="176.43849"
+       fx="541.86664"
+       cy="176.43849"
+       cx="541.86664"
+       id="radialGradient1061"
+       xlink:href="#linearGradient1059" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Digitech Graphics</dc:title>
+        <dc:date>15/05/2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Regier Kunkel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyleft</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-263.13355)"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:55.54592896px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.89301705;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="382.77902"
+       y="1468.5474"
+       id="text6513"><desc
+         id="desc6507">Elegant spaced logo</desc><title
+         id="title6509">DigiTech Audio Solution</title><tspan
+         x="389.39359"
+         y="1468.5474"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;line-height:69.43242645px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:13.22916698px;word-spacing:18.52083397px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.89301705;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="tspan6511">DigiTech Audio Solutions</tspan></text>
+    <g
+       transform="matrix(1.8666667,0,0,1.8666667,1100.6667,49.454599)"
+       id="g3804">
+      <title
+         id="title3806">SpeakerHead</title>
+      <g
+         id="g3771"
+         style="image-rendering:auto">
+        <title
+           id="title3773">Headphones</title>
+        <path
+           transform="scale(-1)"
+           d="M 562.0986,138.42859 A 262.74146,262.74146 0 0 1 430.72787,365.96937 262.74146,262.74146 0 0 1 167.98641,365.96936 262.74146,262.74146 0 0 1 36.615692,138.42858 l 262.741458,1e-5 z"
+           style="fill:#666666;stroke:none;stroke-width:0.47895575"
+           id="circle3748" />
+        <circle
+           style="fill:#0e232e;stroke:none;stroke-width:0.26458332"
+           r="145.14285"
+           cy="-138.42856"
+           cx="-444.5"
+           id="path3742" />
+        <circle
+           id="circle3744"
+           cx="-154.21429"
+           cy="-138.42856"
+           r="145.14285"
+           style="fill:#364e59;stroke:none;stroke-width:0.26458332" />
+      </g>
+      <path
+         transform="scale(-1)"
+         d="m 523.61179,138.42859 a 224.25464,235.83107 0 0 1 -112.12733,204.2357 224.25464,235.83107 0 0 1 -224.25464,-10e-6 224.25464,235.83107 0 0 1 -112.127311,-204.2357 l 224.254641,1e-5 z"
+         style="fill:#999999;stroke:none;stroke-width:0.41921619"
+         id="path3750" />
+      <circle
+         style="fill:#9eabb0;stroke:none;stroke-width:0.4087975"
+         r="224.25464"
+         cy="-138.42857"
+         cx="-299.35715"
+         id="circle3746" />
+      <g
+         id="g3764"
+         transform="translate(-107.5916,-70.040352)">
+        <title
+           id="title3785">Pair Of Eyes</title>
+        <circle
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772"
+           r="70.040352"
+           cy="-138.42856"
+           cx="-299.35715"
+           id="circle3752" />
+        <circle
+           id="circle3754"
+           cx="-299.35715"
+           cy="-138.42854"
+           r="47.361782"
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658" />
+        <circle
+           id="circle3756"
+           cx="-84.173943"
+           cy="-138.42856"
+           r="70.040352"
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772" />
+        <circle
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658"
+           r="47.361782"
+           cy="-138.42854"
+           cx="-84.173943"
+           id="circle3758" />
+      </g>
+      <g
+         id="g3781">
+        <title
+           id="title3783">Speaker Mouth</title>
+        <circle
+           style="fill:#2d2d2d;stroke:none;stroke-width:0.17453101"
+           r="95.742737"
+           cy="-42.685822"
+           cx="-299.35715"
+           id="circle3766" />
+        <circle
+           id="circle3775"
+           cx="-299.35715"
+           cy="-42.685814"
+           r="73.064163"
+           style="fill:#666666;stroke:none;stroke-width:0.13318987" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.39385986px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:26.45833397;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="540.9527"
+       y="-684.85059"
+       id="text6513-3"><desc
+         id="desc6507-6">Elegant spaced logo</desc><title
+         id="title6509-7">DigiTech Audio Solution</title><tspan
+         x="550.7644"
+         y="-684.85059"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:94.19248962px;line-height:102.99233246px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:19.62343597px;word-spacing:27.47281075px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:26.45833397;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="tspan6511-5">DigiTech</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.39385986px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:26.45833397;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="542.85425"
+       y="266.45148"
+       id="text6513-35"><desc
+         id="desc6507-62">Elegant spaced logo</desc><title
+         id="title6509-9">DigiTech Audio Solution</title><tspan
+         id="tspan929"
+         x="552.66595"
+         y="266.45148"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:94.19248962px;line-height:102.99233246px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:19.62343597px;word-spacing:27.47281075px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:26.45833397;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">Audio Solutions</tspan></text>
+  </g>
+</svg>
