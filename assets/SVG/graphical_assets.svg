@@ -76,6 +76,26 @@
          in2="BackgroundImage"
          id="feBlend2067" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1180">
+      <feBlend
+         inkscape:collect="always"
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend1182" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1229">
+      <feBlend
+         inkscape:collect="always"
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend1231" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -84,11 +104,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37426941"
-     inkscape:cx="-426.95574"
-     inkscape:cy="4770.0182"
+     inkscape:zoom="0.125"
+     inkscape:cx="3563.6103"
+     inkscape:cy="1821.905"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer11"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1366"
@@ -148,19 +168,18 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Logo"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
     <g
        inkscape:label="Background"
        inkscape:groupmode="layer"
        id="layer1"
        transform="translate(0,786.73312)"
-       style="display:none" />
+       style="display:inline" />
     <g
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Speakers"
-       style="display:none">
+       style="display:inline">
       <g
          id="g1046"
          transform="translate(205.50248,401.97035)">
@@ -279,7 +298,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Heads"
-       style="display:none">
+       style="display:inline">
       <g
          id="g3804"
          transform="matrix(1.8666667,0,0,1.8666667,1100.6667,836.18771)">
@@ -651,6 +670,15 @@
              y="266.45148"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:94.19248962px;line-height:102.99233246px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:19.62343597px;word-spacing:27.47281075px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:26.45833397;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">Audio Solutions</tspan></text>
       </g>
+      <rect
+         y="851.69086"
+         x="-876.72754"
+         height="215.05373"
+         width="360.53189"
+         id="rect1319"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter2065)"
+         ry="24.349258"
+         transform="rotate(-90)" />
     </g>
   </g>
   <g
@@ -659,202 +687,56 @@
      inkscape:label="Web site sketch">
     <g
        inkscape:groupmode="layer"
-       id="layer8"
-       inkscape:label="Web Browser">
-      <rect
-         transform="scale(1,-1)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:3.96875;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect1093"
-         width="1717.1407"
-         height="103.18246"
-         x="1897.264"
-         y="88.597084"
-         ry="0" />
-      <rect
-         ry="0"
-         y="26.671074"
-         x="-300.99387"
-         height="103.18246"
-         width="1717.1407"
-         id="rect991"
-         style="fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:2.65086579;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         transform="scale(1,-1)" />
-      <rect
-         style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="rect1006"
-         width="3"
-         height="64"
-         x="1224.635"
-         y="-110.26231"
-         rx="0"
-         ry="0" />
-      <g
-         id="g1038"
-         transform="matrix(0.96673952,0,0,0.96673952,43.867751,-2.6030385)">
-        <path
-           inkscape:connector-curvature="0"
-           id="rect995"
-           d="m 1239.8677,-109.86332 v 63.202025 h 79.0478 79.0473 v -63.202025 h -79.0473 z"
-           style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-        <text
-           id="text1013"
-           y="-58.551907"
-           x="1243.2955"
-           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b50000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#b50000;stroke-width:0.26458332"
-             y="-58.551907"
-             x="1243.2955"
-             id="tspan1011"
-             sodipodi:role="line">Menu</tspan></text>
-      </g>
-      <rect
-         transform="scale(1,-1)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:2.68651104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1015"
-         width="300.74304"
-         height="93.518379"
-         x="-213.00877"
-         y="132.36981"
-         ry="0" />
-      <rect
-         ry="0"
-         y="132.36983"
-         x="94.737221"
-         height="93.518379"
-         width="300.74304"
-         id="rect1017"
-         style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:2.68651104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         transform="scale(1,-1)" />
-      <rect
-         transform="scale(1,-1)"
-         style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:2.68651104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1019"
-         width="300.74304"
-         height="93.518379"
-         x="402.34644"
-         y="132.36983"
-         ry="0" />
-      <rect
-         ry="0"
-         y="132.98093"
-         x="-708.54236"
-         height="94.554169"
-         width="4.0047174"
-         id="rect1023"
-         style="fill:#b50000;fill-opacity:1;stroke:#b50000;stroke-width:0.31172279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         transform="scale(-1)" />
-      <rect
-         transform="scale(-1)"
-         style="fill:#b50000;fill-opacity:1;stroke:#b50000;stroke-width:0.31172279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1027"
-         width="4.0047174"
-         height="94.554169"
-         x="-400.9841"
-         y="131.18243"
-         ry="0" />
-      <rect
-         ry="0"
-         y="131.18242"
-         x="-93.238106"
-         height="94.554169"
-         width="4.0047174"
-         id="rect1029"
-         style="fill:#b50000;fill-opacity:1;stroke:#b50000;stroke-width:0.31172279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         transform="scale(-1)" />
-      <rect
-         transform="scale(-1)"
-         style="fill:#b50000;fill-opacity:1;stroke:#b50000;stroke-width:0.31172279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-         id="rect1095"
-         width="4.0047174"
-         height="94.554169"
-         x="214.50789"
-         y="131.18242"
-         ry="0" />
-      <path
-         style="fill:#b50000;fill-opacity:1;stroke:none;stroke-width:3.15996695;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         d="m -111.78592,-110.2623 v 18.365892 h -25.85762 v 27.268204 h 25.85762 v 18.365901 l 19.071201,-15.999747 19.0712,-16.000256 -19.0712,-15.999746 z"
-         id="path1002-3"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1185"
-         d="m -250.57403,-110.26231 v 18.365899 h 25.85763 v 27.26821 h -25.85763 v 18.365904 l -19.07121,-15.99975 -19.07119,-16.000259 19.07119,-15.999749 z"
-         style="fill:#b50000;fill-opacity:1;stroke:none;stroke-width:3.15996695;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-      <path
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.14036846;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="m -181.38148,-110.26033 c -3.08002,0.0341 -6.18995,0.50172 -9.24211,1.43379 -13.95281,4.26087 -23.32996,17.217078 -22.86128,31.589706 0.46871,14.372629 10.67034,26.712046 24.87199,30.083317 14.20165,3.371262 28.9945,-3.0347 36.06716,-15.61714 l 2.23037,-3.966661 -8.06065,-4.390903 -2.23038,3.968302 c -5.08642,9.048837 -15.63379,13.615249 -25.84711,11.190738 -10.21335,-2.424482 -17.48712,-11.222377 -17.8242,-21.558664 -0.33704,-10.336285 6.34935,-19.5733 16.3837,-22.637555 9.46494,-2.89039 19.62911,0.409924 25.50706,8.102578 h -11.06592 v 6.378883 h 17.47086 6.48035 v -6.378883 -17.197238 h -6.48035 v 10.550824 c -6.02018,-7.134654 -14.85543,-11.271564 -24.08155,-11.539084 -0.43855,-0.0127 -0.87793,-0.0169 -1.31794,-0.012 z"
-         id="path1101"
-         inkscape:connector-curvature="0" />
-      <g
-         id="g1123"
-         transform="matrix(0.92161136,0,0,0.92161136,-73.108625,-14.041677)">
-        <rect
-           y="-206.32497"
-           x="191.4626"
-           height="54.391891"
-           width="107.29227"
-           id="rect1076"
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:4.20113611;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.23187256px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.92058229;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="244.44226"
-           y="-161.82086"
-           id="text1074"><desc
-             id="desc1068">Elegant spaced logo</desc><title
-             id="title1070">DigiTech Audio Solution</title><tspan
-             sodipodi:role="line"
-             x="244.44226"
-             y="-161.82086"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.2793808px;line-height:52.78983307px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:14.08148766px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#0e232e;stroke-width:2.92058229;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-             id="tspan1072">cct</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:41.39143753px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:1.03478599"
-         x="8.1620197"
-         y="-66.941742"
-         id="text1080"><tspan
-           sodipodi:role="line"
-           id="tspan1078"
-           x="8.1620197"
-           y="-66.941742"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#0e232e;stroke-width:1.03478599">https://www.digitech.audio/index.html</tspan></text>
-      <path
-         style="display:inline;fill:#009100;fill-opacity:1;stroke:none;stroke-width:1.18976235;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         d="m -11.307459,-99.268465 a 11.91823,15.228852 0 0 0 -11.91837,15.22875 h -3.178131 v 20.65823 H 3.7888603 v -20.65823 H 0.61073035 A 11.91823,15.228852 0 0 0 -11.307459,-99.268465 Z m 0,4.50236 a 8.3945791,10.726409 0 0 1 8.3945893,10.72639 H -19.702059 a 8.3945791,10.726409 0 0 1 8.3946,-10.72639 z"
-         id="rect1082"
-         inkscape:connector-curvature="0" />
-      <g
-         id="g1088">
-        <path
-           inkscape:connector-curvature="0"
-           id="path1041"
-           d="m -33.252808,-95.788683 a 9.6143593,11.542544 0 0 1 -2.111883,2.190684 9.6143593,11.542544 0 0 1 -0.50782,0.35205 9.6143593,11.542544 0 0 1 -0.330993,0.221643 9.6143593,11.542544 0 0 1 -0.5217,0.282169 9.6143593,11.542544 0 0 1 -0.356081,0.185681 9.6143593,11.542544 0 0 1 -0.528275,0.212864 9.6143593,11.542544 0 0 1 -0.388474,0.149127 9.6143593,11.542544 0 0 1 -0.523646,0.142983 9.6143593,11.542544 0 0 1 -0.415509,0.106143 9.6143593,11.542544 0 0 1 -0.516587,0.0769 9.6143593,11.542544 0 0 1 -0.453746,0.05995 9.6143593,11.542544 0 0 1 -0.613521,0.02777 9.6143593,11.542544 0 0 1 -0.959859,-0.05995 9.6143593,11.542544 0 0 1 -4.254214,-1.798867 9.6143593,11.542544 0 0 1 -5.213828,1.858807 9.6143593,11.542544 0 0 1 -7.268479,-3.997152 v 11.949645 a 12.482295,17.802389 0 0 0 12.482307,17.802392 12.482295,17.802389 0 0 0 12.482308,-17.802392 z"
-           style="fill:none;fill-opacity:1;stroke:#364e59;stroke-width:5.1681056;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-        <path
-           inkscape:connector-curvature="0"
-           id="rect1080"
-           d="m -48.318855,-86.640719 c 0.09949,0 0.197425,0.01049 0.294696,0.02356 v 14.898593 c -0.09727,0.01312 -0.195206,0.02297 -0.294696,0.02297 -1.881994,0 -3.397195,-2.395024 -3.397195,-5.370443 v -4.203646 c 0,-2.975423 1.515201,-5.371035 3.397195,-5.371034 z"
-           style="fill:#364e59;fill-opacity:1;stroke:#364e59;stroke-width:0.63245404;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-      </g>
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer9"
-       inkscape:label="Buttons"
-       style="display:inline;opacity:1" />
-    <g
-       inkscape:groupmode="layer"
        id="layer17"
        inkscape:label="Footer"
        style="display:inline">
       <g
+         style="display:inline;fill:none;stroke:#0e232e;stroke-width:5.28075886;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+         id="g1588"
+         transform="matrix(0.15845744,0,0,0.69287551,74.632911,331.99037)">
+        <rect
+           y="913.86346"
+           x="-456.47787"
+           height="142.59749"
+           width="6819.4336"
+           id="rect1321"
+           style="display:inline;opacity:1;fill:#bdcdd4;fill-opacity:1;stroke:#364e59;stroke-width:9.1093092;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           ry="0"
+           rx="0" />
+      </g>
+      <g
          inkscape:groupmode="layer"
          id="layer11"
          inkscape:label="Contact Details"
-         style="display:inline" />
+         style="display:inline">
+        <text
+           transform="scale(0.96721593,1.0338953)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.30116653px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:0.20105383"
+           x="80.603737"
+           y="950.742"
+           id="text1316"><tspan
+             sodipodi:role="line"
+             id="tspan1314"
+             x="80.603737"
+             y="950.742"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383">5463 Dublin R. North</tspan><tspan
+             sodipodi:role="line"
+             x="80.603737"
+             y="974.86847"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383"
+             id="tspan1320">O'Connel Village</tspan><tspan
+             id="tspan2055"
+             sodipodi:role="line"
+             x="80.603737"
+             y="998.99493"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383">Co. Dublin</tspan><tspan
+             sodipodi:role="line"
+             x="80.603737"
+             y="1023.1214"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383"
+             id="tspan1322">Ireland</tspan></text>
+      </g>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -868,132 +750,132 @@
          style="display:inline">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.98394394px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.92459863"
-           x="-95.972069"
-           y="443.27243"
-           id="text1264"><tspan
-             sodipodi:role="line"
-             id="tspan1262"
-             x="-95.972069"
-             y="443.27243"
-             style="font-weight:bold;stroke-width:0.92459863">Digitech</tspan><tspan
-             sodipodi:role="line"
-             x="-95.972069"
-             y="489.50235"
-             style="stroke-width:0.92459863"
-             id="tspan1266">For 35 years providing the best</tspan><tspan
-             sodipodi:role="line"
-             x="-95.972069"
-             y="535.7323"
-             style="stroke-width:0.92459863"
-             id="tspan1268">in audio for your studio.</tspan><tspan
-             sodipodi:role="line"
-             x="-95.972069"
-             y="581.96222"
-             style="stroke-width:0.92459863"
-             id="tspan1270">A family owned company focused</tspan><tspan
-             sodipodi:role="line"
-             x="-95.972069"
-             y="628.19214"
-             style="stroke-width:0.92459863"
-             id="tspan1272">on highest sound fidelity.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.78198528px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29454964"
-           x="-95.861115"
-           y="699.32654"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.32898998px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20822473"
+           x="31.060911"
+           y="657.37537"
            id="text1276"><tspan
              sodipodi:role="line"
              id="tspan1274"
-             x="-95.861115"
-             y="699.32654"
-             style="font-size:36.98394394px;stroke-width:0.29454964">Sound amplifiers, equalizers,</tspan><tspan
+             x="31.060911"
+             y="657.37537"
+             style="font-size:26.14490128px;stroke-width:0.20822473">Sound amplifiers, equalizers,</tspan><tspan
              sodipodi:role="line"
-             x="-95.861115"
-             y="745.55646"
-             style="font-size:36.98394394px;stroke-width:0.29454964"
+             x="31.060911"
+             y="690.05652"
+             style="font-size:26.14490128px;stroke-width:0.20822473"
              id="tspan1282">sound tables, electronic drum kits</tspan><tspan
              sodipodi:role="line"
-             x="-95.861115"
-             y="791.78638"
-             style="font-size:36.98394394px;stroke-width:0.29454964"
+             x="31.060911"
+             y="722.73761"
+             style="font-size:26.14490128px;stroke-width:0.20822473"
              id="tspan1278">reel to reel tapes and recorders,</tspan><tspan
              sodipodi:role="line"
-             x="-95.861115"
-             y="838.01636"
-             style="font-size:36.98394394px;stroke-width:0.29454964"
+             x="31.060911"
+             y="755.41876"
+             style="font-size:26.14490128px;stroke-width:0.20822473"
              id="tspan1284">vinyl player, over the ear headphones</tspan><tspan
              sodipodi:role="line"
-             x="-95.861115"
-             y="884.24628"
-             style="font-size:36.98394394px;stroke-width:0.29454964"
+             x="31.060911"
+             y="788.09985"
+             style="font-size:26.14490128px;stroke-width:0.20822473"
              id="tspan1280">and much more!</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.22134399px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="790.27789"
-           y="359.94153"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.67123413px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61678088"
+           x="453.03183"
+           y="449.9588"
+           id="text1264"><tspan
+             sodipodi:role="line"
+             id="tspan1262"
+             x="453.03183"
+             y="449.9588"
+             style="font-weight:bold;stroke-width:0.61678088">Digitech</tspan><tspan
+             sodipodi:role="line"
+             x="453.03183"
+             y="480.79785"
+             style="stroke-width:0.61678088"
+             id="tspan1266">For 35 years providing the best</tspan><tspan
+             sodipodi:role="line"
+             x="453.03183"
+             y="511.6369"
+             style="stroke-width:0.61678088"
+             id="tspan1268">in audio for your studio.</tspan><tspan
+             sodipodi:role="line"
+             x="453.03183"
+             y="542.47595"
+             style="stroke-width:0.61678088"
+             id="tspan1270">A family owned company</tspan><tspan
+             sodipodi:role="line"
+             x="453.03183"
+             y="573.31494"
+             style="stroke-width:0.61678088"
+             id="tspan1272">focused on highest sound</tspan><tspan
+             sodipodi:role="line"
+             x="453.03183"
+             y="604.15399"
+             style="stroke-width:0.61678088"
+             id="tspan1198">fidelity.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.88520432px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16633514"
+           x="939.53735"
+           y="550.3092"
            id="text1288"><tspan
              sodipodi:role="line"
              id="tspan1286"
-             x="790.27789"
-             y="359.94153"
-             style="stroke-width:0.26458332">Pages</tspan><tspan
+             x="939.53735"
+             y="550.3092"
+             style="stroke-width:0.16633514">Pages</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="401.4682"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="576.41571"
+             style="stroke-width:0.16633514"
              id="tspan1290">Articles</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="442.99487"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="602.52222"
+             style="stroke-width:0.16633514"
              id="tspan1292">Products</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="484.52158"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="628.62872"
+             style="stroke-width:0.16633514"
              id="tspan1294">Services</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="526.04828"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="654.73523"
+             style="stroke-width:0.16633514"
              id="tspan1296">News</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="567.57495"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="680.84174"
+             style="stroke-width:0.16633514"
              id="tspan1298">Calendar</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="609.10162"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="706.94824"
+             style="stroke-width:0.16633514"
              id="tspan1300">Meetings</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="650.6283"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="733.05475"
+             style="stroke-width:0.16633514"
              id="tspan1304" /><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="692.15497"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="759.16125"
+             style="stroke-width:0.16633514"
              id="tspan1308">Login</tspan><tspan
              sodipodi:role="line"
-             x="790.27789"
-             y="733.68164"
-             style="stroke-width:0.26458332"
+             x="939.53735"
+             y="785.26776"
+             style="stroke-width:0.16633514"
              id="tspan1310">Register</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
          id="layer13"
          inkscape:label="SiteBackground"
-         style="display:inline" />
-      <g
-         inkscape:groupmode="layer"
-         id="layer7"
-         inkscape:label="Frames"
          style="display:inline" />
     </g>
     <g
@@ -1005,23 +887,187 @@
          inkscape:groupmode="layer"
          id="layer14"
          inkscape:label="Top Menu"
-         style="display:inline" />
+         style="display:inline">
+        <rect
+           ry="0"
+           y="-413.20538"
+           x="2.8394575"
+           height="64.567947"
+           width="1079.3499"
+           id="rect1192"
+           style="fill:#bdcdd4;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           transform="scale(1,-1)" />
+        <rect
+           y="-585.30908"
+           x="253.47646"
+           height="179.47525"
+           width="185.56389"
+           id="rect1558"
+           style="display:inline;opacity:1;fill:#bdcdd4;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           ry="3.7907889"
+           rx="7.9462996"
+           transform="scale(1,-1)" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer9"
+         inkscape:label="Buttons"
+         style="display:inline;opacity:1">
+        <g
+           style="display:inline"
+           id="g1597">
+          <rect
+             ry="10.701167"
+             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="rect1536"
+             width="173.82225"
+             height="47.856358"
+             x="53.941326"
+             y="355.74359" />
+          <text
+             id="text1364"
+             y="391.94284"
+             x="139.90837"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388"
+               y="391.94284"
+               x="139.90837"
+               id="tspan1362"
+               sodipodi:role="line">Home</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g1582">
+          <rect
+             y="355.74359"
+             x="259.34729"
+             height="47.856358"
+             width="173.82225"
+             id="rect1530"
+             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             ry="10.701167" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+             x="346.17902"
+             y="388.49112"
+             id="text1368"><tspan
+               id="tspan1382"
+               sodipodi:role="line"
+               x="346.17902"
+               y="388.49112"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Shop</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g1577">
+          <rect
+             ry="10.701167"
+             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="rect1528"
+             width="173.82225"
+             height="47.856358"
+             x="464.75317"
+             y="355.74359" />
+          <text
+             id="text1372"
+             y="391.927"
+             x="551.90723"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388"
+               y="391.927"
+               x="551.90723"
+               id="tspan1370"
+               sodipodi:role="line">About</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g1572">
+          <rect
+             y="355.74359"
+             x="670.15906"
+             height="47.856358"
+             width="173.82225"
+             id="rect1158"
+             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             ry="10.701167" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+             x="756.664"
+             y="392.03784"
+             id="text1376"><tspan
+               sodipodi:role="line"
+               id="tspan1374"
+               x="756.664"
+               y="392.03784"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Contact</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g1587">
+          <rect
+             ry="10.701167"
+             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="rect1566"
+             width="173.82225"
+             height="47.856354"
+             x="259.34729"
+             y="427.07187" />
+          <text
+             id="text1570"
+             y="459.8194"
+             x="346.17899"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388"
+               y="459.8194"
+               x="346.17899"
+               sodipodi:role="line"
+               id="tspan1568">Products</tspan></text>
+        </g>
+        <g
+           style="display:inline"
+           id="g1592">
+          <rect
+             y="511.05017"
+             x="259.34729"
+             height="47.856354"
+             width="173.82225"
+             id="rect1574"
+             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             ry="10.701167" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+             x="346.17899"
+             y="543.79773"
+             id="text1578"><tspan
+               id="tspan1576"
+               sodipodi:role="line"
+               x="346.17899"
+               y="543.79773"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Services</tspan></text>
+        </g>
+      </g>
       <g
          inkscape:groupmode="layer"
          id="layer19"
          inkscape:label="SiteLogo"
          style="display:inline">
         <g
-           transform="matrix(0.11088386,0,0,0.11088386,-141.08829,-161.64572)"
-           id="g1067"
+           transform="matrix(0.18107109,0,0,0.18107109,488.74071,300.89462)"
+           id="g3804-36"
            style="display:inline">
           <title
-             id="title1031">SpeakerHead</title>
+             id="title3806-7">SpeakerHead</title>
           <g
-             id="g1041"
+             id="g3771-5"
              style="image-rendering:auto">
             <title
-               id="title1033">Headphones</title>
+               id="title3773-3">Headphones</title>
             <path
                transform="scale(-1)"
                d="M 562.0986,138.42859 A 262.74146,262.74146 0 0 1 430.72787,365.96937 262.74146,262.74146 0 0 1 167.98641,365.96936 262.74146,262.74146 0 0 1 36.615692,138.42858 l 262.741458,1e-5 z"
@@ -1033,15 +1079,15 @@
                sodipodi:cx="299.35715"
                sodipodi:type="arc"
                style="fill:#666666;stroke:none;stroke-width:0.47895575"
-               id="path1035" />
+               id="circle3748-56" />
             <circle
                style="fill:#0e232e;stroke:none;stroke-width:0.26458332"
                r="145.14285"
                cy="-138.42856"
                cx="-444.5"
-               id="circle1037" />
+               id="path3742-2" />
             <circle
-               id="circle1039"
+               id="circle3744-91"
                cx="-154.21429"
                cy="-138.42856"
                r="145.14285"
@@ -1058,32 +1104,32 @@
              sodipodi:cx="299.35715"
              sodipodi:type="arc"
              style="fill:#999999;stroke:none;stroke-width:0.41921619"
-             id="path1043" />
+             id="path3750-2" />
           <circle
              style="fill:#9eabb0;stroke:none;stroke-width:0.4087975"
              r="224.25464"
              cy="-138.42857"
              cx="-299.35715"
-             id="circle1045" />
+             id="circle3746-7" />
           <g
-             id="g1057"
+             id="g3764-0"
              transform="translate(-107.5916,-70.040352)">
             <title
-               id="title1047">Pair Of Eyes</title>
+               id="title3785-93">Pair Of Eyes</title>
             <circle
                style="fill:#0e232e;stroke:none;stroke-width:0.12767772"
                r="70.040352"
                cy="-138.42856"
                cx="-299.35715"
-               id="circle1049" />
+               id="circle3752-6" />
             <circle
-               id="circle1051"
+               id="circle3754-0"
                cx="-299.35715"
                cy="-138.42854"
                r="47.361782"
                style="fill:#ffffff;stroke:none;stroke-width:0.08633658" />
             <circle
-               id="circle1053"
+               id="circle3756-62"
                cx="-84.173943"
                cy="-138.42856"
                r="70.040352"
@@ -1093,20 +1139,20 @@
                r="47.361782"
                cy="-138.42854"
                cx="-84.173943"
-               id="circle1055" />
+               id="circle3758-6" />
           </g>
           <g
-             id="g1065">
+             id="g3781-1">
             <title
-               id="title1059">Speaker Mouth</title>
+               id="title3783-8">Speaker Mouth</title>
             <circle
                style="fill:#2d2d2d;stroke:none;stroke-width:0.17453101"
                r="95.742737"
                cy="-42.685822"
                cx="-299.35715"
-               id="circle1061" />
+               id="circle3766-7" />
             <circle
-               id="circle1063"
+               id="circle3775-92"
                cx="-299.35715"
                cy="-42.685814"
                r="73.064163"
@@ -1120,183 +1166,218 @@
          inkscape:label="SiteBanner"
          style="display:inline;filter:url(#filter2065)">
         <rect
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           style="display:inline;fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3.5864625;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            id="rect1142"
-           width="1716.8733"
-           height="1319.9983"
-           x="1897.5315"
-           y="-88.597084"
+           width="1079.4786"
+           height="981.34857"
+           x="2.3400404"
+           y="87.526337"
            ry="0" />
-        <rect
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect1146"
-           width="1717.0765"
-           height="103.11826"
-           x="-300.96182"
-           y="-277.23044"
-           transform="scale(1,-1)" />
-        <rect
-           ry="33.821239"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3.92703724;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect1321"
-           width="1461.5283"
-           height="151.25092"
-           x="-174.9751"
-           y="905.45099" />
-        <rect
-           y="775.91266"
-           x="-750.69653"
-           height="184.88208"
-           width="423.04529"
-           id="rect1319"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           ry="20.933104"
-           transform="rotate(-90)" />
-        <rect
-           y="188.49013"
-           x="126.15067"
-           height="76.543221"
-           width="211.16432"
-           id="rect1148"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#364e59;stroke-width:2.97472668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           ry="17.115841" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:50.37203979px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26235437"
-           x="230.60141"
-           y="244.76579"
-           id="text1364"><tspan
-             sodipodi:role="line"
-             id="tspan1362"
-             x="230.60141"
-             y="244.76579"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke-width:0.26235437">Home</tspan></text>
-        <rect
-           ry="17.115841"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#364e59;stroke-width:2.97472668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect1150"
-           width="211.16432"
-           height="76.543221"
-           x="344.70215"
-           y="188.49025" />
-        <text
-           id="text1368"
-           y="240.65845"
-           x="450.00143"
-           style="font-style:normal;font-weight:normal;font-size:50.37203979px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#364e59;stroke-width:0.26235437"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke:#364e59;stroke-width:0.26235437"
-             y="240.65845"
-             x="450.00143"
-             sodipodi:role="line"
-             id="tspan1382">Shop</tspan></text>
-        <rect
-           y="188.49039"
-           x="563.25354"
-           height="76.543221"
-           width="211.16432"
-           id="rect1156"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#364e59;stroke-width:2.97472668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           ry="17.115841" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:50.37203979px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#364e59;stroke-width:0.26235437"
-           x="669.25385"
-           y="245.54083"
-           id="text1372"><tspan
-             sodipodi:role="line"
-             id="tspan1370"
-             x="669.25385"
-             y="245.54083"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke:#364e59;stroke-width:0.26235437">About</tspan></text>
-        <rect
-           ry="17.115841"
-           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#364e59;stroke-width:2.97472668;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect1158"
-           width="211.16432"
-           height="76.543221"
-           x="781.80511"
-           y="188.49051" />
-        <text
-           id="text1376"
-           y="245.09822"
-           x="886.58789"
-           style="font-style:normal;font-weight:normal;font-size:50.37203979px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#364e59;stroke-width:0.26235437"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke:#364e59;stroke-width:0.26235437"
-             y="245.09822"
-             x="886.58789"
-             id="tspan1374"
-             sodipodi:role="line">Contact</tspan></text>
-        <g
-           id="g1428"
-           transform="matrix(0.9915756,0,0,0.9915756,90.960736,-44.978088)"
-           style="display:inline;stroke:#364e59;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-          <rect
-             ry="10.972433"
-             style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#364e59;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-             id="rect1317"
-             width="271.48196"
-             height="49.069477"
-             x="236.6066"
-             y="349.62051" />
-          <text
-             id="text1380"
-             y="393.09363"
-             x="371.10736"
-             style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#364e59;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke:#364e59;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-               y="393.09363"
-               x="371.10736"
-               id="tspan1378"
-               sodipodi:role="line">Products</tspan></text>
-        </g>
-        <g
-           id="g1422"
-           transform="matrix(0.9915756,0,0,0.9915756,90.960736,-39.733983)"
-           style="display:inline;stroke:#364e59">
-          <rect
-             y="423.6629"
-             x="236.6066"
-             height="49.069477"
-             width="271.48196"
-             id="rect1315"
-             style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#364e59;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-             ry="10.972433" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#364e59;stroke-width:0.26458332"
-             x="371.9259"
-             y="467.13602"
-             id="text1388"><tspan
-               id="tspan1390"
-               sodipodi:role="line"
-               x="371.9259"
-               y="467.13602"
-               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Light';stroke:#364e59;stroke-width:0.26458332">Services</tspan></text>
-        </g>
-        <rect
-           ry="37.914356"
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect1154"
-           width="297.24411"
-           height="169.55565"
-           x="311.54947"
-           y="282.45157" />
         <g
            style="display:inline"
-           id="g3804-36"
-           transform="matrix(0.29082111,0,0,0.29082111,873.47218,123.87265)">
+           id="g1451"
+           transform="matrix(0.62262017,0,0,0.62262017,-55.100662,223.769)">
+          <text
+             id="text6513-3-0"
+             y="79.861938"
+             x="403.36154"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.97071075px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:23.11124611;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             xml:space="preserve"><desc
+               id="desc6507-6-2">Elegant spaced logo</desc><title
+               id="title6509-7-3">DigiTech Audio Solution</title><tspan
+               id="tspan6511-5-7"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:82.27675629px;line-height:89.96337891px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:17.14099121px;word-spacing:23.99738693px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:23.11124611;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+               y="79.861938"
+               x="411.93204"
+               sodipodi:role="line">DigiTech</tspan></text>
+          <text
+             id="text6513-35-5"
+             y="160.76578"
+             x="521.11517"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.23000336px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:17.4143486;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             xml:space="preserve"><desc
+               id="desc6507-62-9">Elegant spaced logo</desc><title
+               id="title6509-9-2">DigiTech Audio Solution</title><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.99562073px;line-height:67.78749084px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:12.91575527px;word-spacing:18.08205605px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:17.4143486;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+               y="160.76578"
+               x="527.57306"
+               sodipodi:role="line"
+               id="tspan929-2">Audio Solutions</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Web Browser"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer18"
+       inkscape:label="AddressBar"
+       style="display:inline">
+      <rect
+         ry="0"
+         y="-217.15213"
+         x="2.0419135"
+         height="64.867538"
+         width="1079.512"
+         id="rect991"
+         style="fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         style="fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:4.59408045;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect581"
+         width="802.05096"
+         height="61.124397"
+         x="147.26689"
+         y="-216.64801"
+         ry="0" />
+      <rect
+         style="fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:2.58320236;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1006"
+         width="2.5832024"
+         height="55.108318"
+         x="958.36237"
+         y="157.16422"
+         rx="0"
+         ry="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:2.10889935;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 968.30614,163.24279 v 42.95116 h 53.71966 53.7194 v -42.95116 h -53.7194 z"
+         id="rect995"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.19227791px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b50000;fill-opacity:1;stroke:none;stroke-width:0.17980695"
+         x="970.63568"
+         y="198.11328"
+         id="text1013"><tspan
+           sodipodi:role="line"
+           id="tspan1011"
+           x="970.63568"
+           y="198.11328"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.52293777px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#b50000;stroke-width:0.17980695">Menu</tspan></text>
+      <path
+         style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:2.0132072;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 113.79958,161.96294 v 13.06012 H 99.040286 v 19.39061 h 14.759294 v 13.06014 l 10.88566,-11.37755 10.88567,-11.37789 -10.88567,-11.37753 z"
+         id="path1002-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1185"
+         d="m 34.580624,161.96294 v 13.06012 h 14.759292 v 19.39062 H 34.580624 v 13.06013 L 23.69495,196.09626 12.809296,184.71837 23.69495,173.34084 Z"
+         style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:2.0132072;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.21723747;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 74.453842,166.4542 c -1.758054,0.0194 -3.533168,0.28637 -5.275313,0.81839 -7.964135,2.43207 -13.316522,9.82734 -13.049011,18.03111 0.267544,8.20376 6.090535,15.24699 14.196705,17.17128 8.10617,1.92428 16.549785,-1.73218 20.586798,-8.91412 l 1.273072,-2.26413 -4.600936,-2.50629 -1.273083,2.26507 c -2.903285,5.16499 -8.923626,7.77145 -14.753291,6.38757 -5.829686,-1.38388 -9.981485,-6.40563 -10.173887,-12.30549 -0.19238,-5.89985 3.624144,-11.17226 9.351666,-12.9213 5.402494,-1.6498 11.204105,0.23398 14.559186,4.62487 H 78.97943 v 3.64101 h 9.972206 3.698918 v -3.64101 -9.81601 h -3.698918 v 6.0223 c -3.436269,-4.07239 -8.479341,-6.4337 -13.745528,-6.5864 -0.250321,-0.007 -0.50112,-0.01 -0.752266,-0.006 z"
+         id="path1101"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:26.02148247px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:0.65053713"
+         x="206.37852"
+         y="193.9467"
+         id="text1080"><tspan
+           sodipodi:role="line"
+           id="tspan1078"
+           x="206.37852"
+           y="193.9467"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#0e232e;stroke-width:0.65053713">https://www.digitech.audio/index.html</tspan></text>
+      <path
+         style="display:inline;fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.74796587;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 190.584,173.43267 a 7.4926132,9.5738962 0 0 0 -7.49271,9.57383 h -1.99799 v 12.98718 h 18.98126 V 183.0065 h -1.99798 a 7.4926132,9.5738962 0 0 0 -7.49258,-9.57383 z m 0,2.83049 a 5.2774056,6.7433531 0 0 1 5.2774,6.74334 h -10.55483 a 5.2774056,6.7433531 0 0 1 5.27743,-6.74334 z"
+         id="rect1082"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#364e59;stroke-width:3.24902415;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 176.78764,175.62029 a 6.0442427,7.2564313 0 0 1 -1.32767,1.37722 6.0442427,7.2564313 0 0 1 -0.31924,0.22133 6.0442427,7.2564313 0 0 1 -0.20809,0.13933 6.0442427,7.2564313 0 0 1 -0.32797,0.17739 6.0442427,7.2564313 0 0 1 -0.22387,0.11678 6.0442427,7.2564313 0 0 1 -0.33211,0.13383 6.0442427,7.2564313 0 0 1 -0.24422,0.0937 6.0442427,7.2564313 0 0 1 -0.3292,0.0899 6.0442427,7.2564313 0 0 1 -0.26122,0.0667 6.0442427,7.2564313 0 0 1 -0.32476,0.0483 6.0442427,7.2564313 0 0 1 -0.28525,0.0376 6.0442427,7.2564313 0 0 1 -0.3857,0.0174 6.0442427,7.2564313 0 0 1 -0.60343,-0.0376 6.0442427,7.2564313 0 0 1 -2.67449,-1.13089 6.0442427,7.2564313 0 0 1 -3.27777,1.16856 6.0442427,7.2564313 0 0 1 -4.56946,-2.51287 v 7.51235 a 7.847223,11.191797 0 0 0 7.84723,11.1918 7.847223,11.191797 0 0 0 7.84722,-11.1918 z"
+         id="path1041"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#364e59;fill-opacity:1;stroke:#364e59;stroke-width:0.39760381;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 167.31611,181.37133 c 0.0625,0 0.1241,0.007 0.18525,0.0148 v 9.36627 c -0.0612,0.008 -0.12272,0.0145 -0.18525,0.0145 -1.18317,0 -2.13572,-1.50567 -2.13572,-3.37622 v -2.6427 c 0,-1.87055 0.95255,-3.37661 2.13572,-3.37661 z"
+         id="rect1080"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="TabBar"
+       style="display:inline">
+      <rect
+         transform="scale(1,-1)"
+         style="display:inline;fill:#dc0000;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1302"
+         width="1079.512"
+         height="64.867538"
+         x="2.0419135"
+         y="-153.65205"
+         ry="0" />
+      <g
+         style="display:inline"
+         id="g485"
+         transform="matrix(0.62866828,0,0,0.62866828,309.01004,232.84103)">
+        <rect
+           ry="0"
+           y="128.61949"
+           x="-218.67355"
+           height="101.47852"
+           width="334.47504"
+           id="rect1015"
+           style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:4.09814501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           transform="scale(1,-1)" />
+        <rect
+           transform="scale(1,-1)"
+           style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:4.09814501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect1017"
+           width="334.47504"
+           height="101.47852"
+           x="128.55174"
+           y="128.61949"
+           ry="0" />
+        <rect
+           transform="scale(-1)"
+           style="fill:#dc0000;fill-opacity:1;stroke:#dc0000;stroke-width:4.33127403;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect1023"
+           width="4.580936"
+           height="98.451477"
+           x="-818.96362"
+           y="128.73035"
+           ry="0" />
+        <rect
+           ry="0"
+           y="128.61949"
+           x="475.77704"
+           height="101.47852"
+           width="334.47504"
+           id="rect1019"
+           style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:4.09814501;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           transform="scale(1,-1)" />
+        <rect
+           ry="0"
+           y="128.63823"
+           x="-471.30624"
+           height="98.635719"
+           width="4.173727"
+           id="rect1027"
+           style="fill:#dc0000;fill-opacity:1;stroke:#dc0000;stroke-width:4.13815355;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           transform="scale(-1)" />
+        <g
+           style="display:inline"
+           id="g1067"
+           transform="matrix(0.11088386,0,0,0.11088386,-132.98361,-161.87547)">
           <title
-             id="title3806-7">SpeakerHead</title>
+             id="title1031">SpeakerHead</title>
           <g
              style="image-rendering:auto"
-             id="g3771-5">
+             id="g1041">
             <title
-               id="title3773-3">Headphones</title>
+               id="title1033">Headphones</title>
             <path
-               id="circle3748-56"
+               id="path1035"
                style="fill:#666666;stroke:none;stroke-width:0.47895575"
                sodipodi:type="arc"
                sodipodi:cx="299.35715"
@@ -1308,7 +1389,7 @@
                d="M 562.0986,138.42859 A 262.74146,262.74146 0 0 1 430.72787,365.96937 262.74146,262.74146 0 0 1 167.98641,365.96936 262.74146,262.74146 0 0 1 36.615692,138.42858 l 262.741458,1e-5 z"
                transform="scale(-1)" />
             <circle
-               id="path3742-2"
+               id="circle1037"
                cx="-444.5"
                cy="-138.42856"
                r="145.14285"
@@ -1318,10 +1399,10 @@
                r="145.14285"
                cy="-138.42856"
                cx="-154.21429"
-               id="circle3744-91" />
+               id="circle1039" />
           </g>
           <path
-             id="path3750-2"
+             id="path1043"
              style="fill:#999999;stroke:none;stroke-width:0.41921619"
              sodipodi:type="arc"
              sodipodi:cx="299.35715"
@@ -1333,18 +1414,18 @@
              d="m 523.61179,138.42859 a 224.25464,235.83107 0 0 1 -112.12733,204.2357 224.25464,235.83107 0 0 1 -224.25464,-10e-6 224.25464,235.83107 0 0 1 -112.127311,-204.2357 l 224.254641,1e-5 z"
              transform="scale(-1)" />
           <circle
-             id="circle3746-7"
+             id="circle1045"
              cx="-299.35715"
              cy="-138.42857"
              r="224.25464"
              style="fill:#9eabb0;stroke:none;stroke-width:0.4087975" />
           <g
              transform="translate(-107.5916,-70.040352)"
-             id="g3764-0">
+             id="g1057">
             <title
-               id="title3785-93">Pair Of Eyes</title>
+               id="title1047">Pair Of Eyes</title>
             <circle
-               id="circle3752-6"
+               id="circle1049"
                cx="-299.35715"
                cy="-138.42856"
                r="70.040352"
@@ -1354,26 +1435,26 @@
                r="47.361782"
                cy="-138.42854"
                cx="-299.35715"
-               id="circle3754-0" />
+               id="circle1051" />
             <circle
                style="fill:#0e232e;stroke:none;stroke-width:0.12767772"
                r="70.040352"
                cy="-138.42856"
                cx="-84.173943"
-               id="circle3756-62" />
+               id="circle1053" />
             <circle
-               id="circle3758-6"
+               id="circle1055"
                cx="-84.173943"
                cy="-138.42854"
                r="47.361782"
                style="fill:#ffffff;stroke:none;stroke-width:0.08633658" />
           </g>
           <g
-             id="g3781-1">
+             id="g1065">
             <title
-               id="title3783-8">Speaker Mouth</title>
+               id="title1059">Speaker Mouth</title>
             <circle
-               id="circle3766-7"
+               id="circle1061"
                cx="-299.35715"
                cy="-42.685822"
                r="95.742737"
@@ -1383,142 +1464,323 @@
                r="73.064163"
                cy="-42.685814"
                cx="-299.35715"
-               id="circle3775-92" />
+               id="circle1063" />
           </g>
         </g>
+        <rect
+           transform="scale(-1)"
+           style="fill:#dc0000;fill-opacity:1;stroke:#dc0000;stroke-width:4.06914282;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect1029"
+           width="4.2823277"
+           height="92.954628"
+           x="-124.21165"
+           y="133.00494"
+           ry="0" />
         <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.97071075px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:23.11124611;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="403.36154"
-           y="79.861938"
-           id="text6513-3-0"><desc
-             id="desc6507-6-2">Elegant spaced logo</desc><title
-             id="title6509-7-3">DigiTech Audio Solution</title><tspan
-             sodipodi:role="line"
-             x="411.93204"
-             y="79.861938"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:82.27675629px;line-height:89.96337891px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:17.14099121px;word-spacing:23.99738693px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:23.11124611;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-             id="tspan6511-5-7">DigiTech</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.23000336px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:17.4143486;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="521.11517"
-           y="160.76578"
-           id="text6513-35-5"><desc
-             id="desc6507-62-9">Elegant spaced logo</desc><title
-             id="title6509-9-2">DigiTech Audio Solution</title><tspan
-             id="tspan929-2"
-             sodipodi:role="line"
-             x="527.57306"
-             y="160.76578"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.99562073px;line-height:67.78749084px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:12.91575527px;word-spacing:18.08205605px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:17.4143486;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">Audio Solutions</tspan></text>
-        <text
-           id="text1316"
-           y="941.73816"
-           x="-69.508186"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.16666603px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-             y="941.73816"
-             x="-69.508186"
-             id="tspan1314"
-             sodipodi:role="line">5463 Dublin R. North</tspan><tspan
-             id="tspan1320"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.16666603px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-             y="973.48816"
-             x="-69.508186"
-             sodipodi:role="line">O'Connel Village</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.16666603px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-             y="1005.2382"
-             x="-69.508186"
-             sodipodi:role="line"
-             id="tspan2055">Co. Dublin</tspan><tspan
-             id="tspan1322"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.16666603px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-             y="1036.9882"
-             x="-69.508186"
-             sodipodi:role="line">Ireland</tspan></text>
-        <text
-           xml:space="preserve"
+           id="text6513-3-0-0"
+           y="-165.60435"
+           x="-5.9672132"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.43508148px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:13.94787979;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="-27.744555"
-           y="-163.25797"
-           id="text6513-3-0-0"><desc
+           xml:space="preserve"><desc
              id="desc6507-6-2-4">Elegant spaced logo</desc><title
              id="title6509-7-3-2">DigiTech Audio Solution</title><tspan
-             sodipodi:role="line"
-             x="-27.744553"
-             y="-163.25797"
+             id="tspan6511-5-7-2"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.65488052px;line-height:54.2938385px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:14.48267555px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:13.94787979;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-             id="tspan6511-5-7-2">DigiTech</tspan></text>
+             y="-165.60435"
+             x="-5.9672103"
+             sodipodi:role="line">DigiTech</tspan></text>
+        <rect
+           ry="0"
+           y="131.13222"
+           x="222.78351"
+           height="93.040886"
+           width="4.3897057"
+           id="rect1095"
+           style="fill:#dc0000;fill-opacity:1;stroke:#dc0000;stroke-width:4.12175369;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           transform="scale(-1)" />
+        <g
+           transform="matrix(0.03787937,0,0,0.03787937,572.00554,-201.0225)"
+           id="g2428">
+          <title
+             id="title2430">DuckDuckGo</title>
+          <g
+             id="g2150"
+             transform="matrix(1.0946502,0,0,1.0946502,154.43137,-54.131781)">
+            <circle
+               style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:4.99692345;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+               id="circle2143"
+               cx="-1631.601"
+               cy="571.914"
+               r="687.13867" />
+            <circle
+               r="617.21472"
+               cy="571.914"
+               cx="-1631.601"
+               id="circle2145"
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.48843145;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+            <circle
+               r="527.48596"
+               cy="571.914"
+               cx="-1631.601"
+               id="path2141"
+               style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:3.835917;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+          </g>
+          <g
+             id="g2399"
+             transform="matrix(0.91948867,0,0,0.91948867,-92.975727,81.337778)">
+            <g
+               transform="matrix(1.1872854,-0.16183747,0.16183747,1.1872854,312.72908,-385.63591)"
+               id="g2364">
+              <g
+                 id="g2345">
+                <g
+                   id="g2306">
+                  <path
+                     inkscape:connector-curvature="0"
+                     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.430336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                     d="m -5974.3047,975.25391 c -473.6694,0 -855,381.32859 -855,854.99809 v 363.375 c 0,473.6694 381.3306,855 855,855 130.6394,0 254.247,-29.0203 364.7754,-80.9708 -76.0851,-56.3718 -142.058,-137.1727 -199.3926,-225.3867 l -101.0273,-155.4394 c -125.1663,-192.5786 131.8233,-434.3878 359.7148,-462.9961 l 430.9278,-54.0977 V 1830.252 c 0,-473.6695 -381.3286,-854.99809 -854.9981,-854.99809 z"
+                     transform="scale(0.26458333)"
+                     id="path2283" />
+                  <path
+                     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.24046922;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                     d="m -1798.6481,140.62623 c -35.3009,4.54076 -113.8361,-8.22493 -135.0831,4.17021 l 112.1373,50.62181 -105.6112,3.76889 c 4.8078,24.12392 44.2903,52.052 79.8066,49.73666 98.7333,-6.43647 183.4375,26.01664 248.8276,112.01059 29.8689,39.28038 92.0944,12.41236 105.5983,-17.58612 13.5039,-29.99849 -22.1592,-55.61449 -56.8478,-90.71145 -66.483,-67.2656 -137.474,-126.33408 -248.8277,-112.01059 z"
+                     id="rect2183"
+                     inkscape:connector-curvature="0"
+                     sodipodi:nodetypes="scccsssss" />
+                  <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.4881916;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                     id="rect2285"
+                     width="236.82034"
+                     height="485.18152"
+                     x="-1838.5004"
+                     y="282.24863"
+                     ry="101.95162"
+                     transform="matrix(0.97909642,-0.20339666,0.19343712,0.98111268,0,0)" />
+                </g>
+                <path
+                   sodipodi:nodetypes="ssssscsssscss"
+                   inkscape:connector-curvature="0"
+                   id="rect2234"
+                   d="m -1541.4155,565.7736 c -61.3276,7.69875 -130.4858,72.77186 -96.8025,124.59642 l 27.1877,41.83041 c 33.6833,51.82456 78.4363,94.16333 138.4262,79.27874 l 163.5181,-40.57176 c 48.3695,-12.00132 87.093,-43.53671 95.7868,-89.9121 -115.7205,14.52697 -38.0891,63.9468 -240.6256,59.98273 -14.6277,-0.28631 -29.8968,0.48878 -31.4492,-8.68268 l -7.4722,-44.14281 c -4.5762,-27.03447 64.9438,-36.29784 92.3056,-34.52774 175.6621,11.36404 114.6069,-45.71713 229.1129,-60.50905 -20.7856,-40.53003 -65.2091,-65.60245 -113.1521,-59.58396 z"
+                   style="fill:#ffff3e;fill-opacity:1;stroke:none;stroke-width:4.47953272;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+              </g>
+              <g
+                 id="g2338">
+                <g
+                   id="g2320">
+                  <g
+                     id="g2310">
+                    <circle
+                       r="36.677269"
+                       cy="489.49481"
+                       cx="-1708.6436"
+                       id="path2156"
+                       style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:1.4857012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+                    <circle
+                       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64999437;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                       id="circle2158"
+                       cx="-1701.1935"
+                       cy="480.51651"
+                       r="16.046307" />
+                  </g>
+                  <path
+                     style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:1.73323298;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                     d="m -1737.5183,368.04487 a 72.243239,72.243239 0 0 0 -39.0832,75.86086 72.243239,79.035338 63.477682 0 1 45.1492,-63.70626 72.243239,79.035338 63.477682 0 1 77.9891,2.24336 72.243239,72.243239 0 0 0 -84.0551,-14.39796 z"
+                     id="path2170"
+                     inkscape:connector-curvature="0" />
+                </g>
+                <g
+                   id="g2326">
+                  <g
+                     id="g2314">
+                    <circle
+                       style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:1.4857012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                       id="circle2175"
+                       cx="-1466.8724"
+                       cy="468.28683"
+                       r="36.677269" />
+                    <circle
+                       r="16.046307"
+                       cy="459.30853"
+                       cx="-1459.4225"
+                       id="circle2177"
+                       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64999437;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+                  </g>
+                  <path
+                     inkscape:connector-curvature="0"
+                     id="path2181"
+                     d="m -1473.5725,341.18697 a 72.243239,72.243239 0 0 1 73.4168,43.50078 72.243239,79.035338 84.427068 0 0 -72.0977,-29.98077 72.243239,79.035338 84.427068 0 0 -64.8778,43.3383 72.243239,72.243239 0 0 1 63.5587,-56.85831 z"
+                     style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:1.73323298;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+                </g>
+              </g>
+            </g>
+            <g
+               transform="rotate(-14.356995,-1465.8156,1104.5969)"
+               id="g2375">
+              <rect
+                 style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:2.5483551;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                 id="rect2366"
+                 width="228.77832"
+                 height="172.49159"
+                 x="-1631.9795"
+                 y="680.383"
+                 ry="57.194607"
+                 transform="rotate(-9.5924143)" />
+              <path
+                 sodipodi:type="star"
+                 style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                 id="path2368"
+                 sodipodi:sides="3"
+                 sodipodi:cx="-1247.0295"
+                 sodipodi:cy="1233.6031"
+                 sodipodi:r1="288.37311"
+                 sodipodi:r2="144.18655"
+                 sodipodi:arg1="-1.0471976"
+                 sodipodi:arg2="0"
+                 inkscape:flatsided="false"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 d="m -1102.843,983.86471 0,249.73839 0,249.7385 -216.2798,-124.8692 -216.2798,-124.8692 216.2798,-124.8693 z"
+                 inkscape:transform-center-x="25.178985"
+                 inkscape:transform-center-y="15.56752"
+                 transform="matrix(0.54487624,0.107968,-0.11294144,0.56997544,-395.23764,455.86682)" />
+              <path
+                 transform="matrix(-0.53200456,-0.15974465,-0.16710314,0.55651084,-1962.5822,118.83707)"
+                 inkscape:transform-center-y="-23.033063"
+                 inkscape:transform-center-x="-17.487828"
+                 d="m -1102.843,983.86471 0,249.73839 0,249.7385 -216.2798,-124.8692 -216.2798,-124.8692 216.2798,-124.8693 z"
+                 inkscape:randomized="0"
+                 inkscape:rounded="0"
+                 inkscape:flatsided="false"
+                 sodipodi:arg2="0"
+                 sodipodi:arg1="-1.0471976"
+                 sodipodi:r2="144.18655"
+                 sodipodi:r1="288.37311"
+                 sodipodi:cy="1233.6031"
+                 sodipodi:cx="-1247.0295"
+                 sodipodi:sides="3"
+                 id="path2370"
+                 style="fill:#009100;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+                 sodipodi:type="star" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(0.92161135,0,0,0.92161135,-23.21116,-14.271415)"
+           id="g1123">
+          <rect
+             style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:4.20113611;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="rect1076"
+             width="107.29227"
+             height="54.391891"
+             x="191.4626"
+             y="-206.32497" />
+          <text
+             id="text1074"
+             y="-161.82086"
+             x="244.44226"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.23187256px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:2.92058229;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             xml:space="preserve"><desc
+               id="desc1068">Elegant spaced logo</desc><title
+               id="title1070">DigiTech Audio Solution</title><tspan
+               id="tspan1072"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.2793808px;line-height:52.78983307px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:14.08148766px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#0e232e;stroke-width:2.92058229;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+               y="-161.82086"
+               x="244.44226"
+               sodipodi:role="line">cct</tspan></text>
+        </g>
         <text
-           xml:space="preserve"
+           id="text6513-3-0-0-3"
+           y="-165.8515"
+           x="359.73413"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.20045853px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:13.87253761;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="301.38562"
-           y="-163.50513"
-           id="text6513-3-0-0-3"><desc
+           xml:space="preserve"><desc
              id="desc6507-6-2-4-6">Elegant spaced logo</desc><title
              id="title6509-7-3-2-7">DigiTech Audio Solution</title><tspan
-             sodipodi:role="line"
-             x="301.38562"
-             y="-163.50513"
+             id="tspan1114"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.38666153px;line-height:54.00056076px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:-8.95878696px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:13.87253761;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-             id="tspan1114">Home |</tspan></text>
+             y="-165.8515"
+             x="359.73413"
+             sodipodi:role="line">Home |</tspan></text>
         <g
+           transform="matrix(1.114521,0,0,1.114521,24.163651,18.63887)"
            id="g1144"
-           transform="matrix(1.114521,0,0,1.114521,-75.811748,18.63887)">
+           style="display:inline">
+          <rect
+             style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect1097"
+             width="8.3036022"
+             height="57.423771"
+             x="752.23846"
+             y="-207.1714" />
+          <rect
+             y="-785.10217"
+             x="-182.61131"
+             height="57.423771"
+             width="8.3036022"
+             id="rect1099"
+             style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             transform="rotate(90)" />
+        </g>
+        <text
+           transform="matrix(0.26458333,0,0,0.26458333,577.79811,-205.75337)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.27732849px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:52.43164062;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="344.24988"
+           y="171.99591"
+           id="text6513-3-0-0-3-3"><desc
+             id="desc6507-6-2-4-6-6">Elegant spaced logo</desc><title
+             id="title6509-7-3-2-7-7">DigiTech Audio Solution</title><tspan
+             sodipodi:role="line"
+             x="344.24988"
+             y="171.99591"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:186.6582489px;line-height:204.09660339px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;word-spacing:-33.85998154px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:52.43164062;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             id="tspan1114-5">DuckDuck</tspan></text>
+      </g>
+      <g
+         style="display:inline;fill:#ffffff;stroke:none"
+         id="g1406"
+         transform="matrix(1.2167597,0,0,1.2167597,-14.571162,-16.370263)">
+        <g
+           id="g1180"
+           transform="matrix(-0.36655374,0.36655374,0.36655374,0.36655374,390.86948,-105.93868)"
+           style="fill:#ffffff;stroke:none">
           <rect
              y="-207.1714"
              x="752.23846"
              height="57.423771"
              width="8.3036022"
-             id="rect1097"
-             style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+             id="rect1176"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
           <rect
              transform="rotate(90)"
-             style="fill:#364e59;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-             id="rect1099"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect1178"
              width="8.3036022"
              height="57.423771"
              x="-182.61131"
              y="-785.10217" />
         </g>
-        <g
-           id="g1260"
-           transform="matrix(-1,0,0,1,3285.4957,40.069677)"
-           style="fill:#dc0000">
-          <g
-             id="g1180"
-             transform="matrix(0.78808535,0.78808535,-0.78808535,0.78808535,596.47017,-635.18237)"
-             style="fill:#dc0000">
-            <rect
-               y="-207.1714"
-               x="752.23846"
-               height="57.423771"
-               width="8.3036022"
-               id="rect1176"
-               style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-            <rect
-               transform="rotate(90)"
-               style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:0.96183175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-               id="rect1178"
-               width="8.3036022"
-               height="57.423771"
-               x="-182.61131"
-               y="-785.10217" />
-          </g>
-          <path
-             inkscape:connector-curvature="0"
-             id="rect1241"
-             d="m 1180.9651,-206.69178 v 52.86758 h 52.8676 v -52.86758 z m 8.5478,8.54781 h 35.772 v 35.77197 h -35.772 z"
-             style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path1246"
-             d="m 1244.1387,-162.372 v 8.5478 h 52.8675 v -8.5478 h -8.5478 -35.772 z"
-             style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="rect1241"
+           d="M 119.00958,93.360586 V 117.95033 H 94.419832 V 93.360586 Z m -3.97575,3.975755 H 98.395588 v 16.638229 h 16.638242 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32558355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1246"
+           d="m 89.626313,113.97457 v 3.97576 H 65.036621 v -3.97576 h 3.975744 16.638252 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32558355;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
       </g>
     </g>
+    <rect
+       transform="scale(1,-1)"
+       style="fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:2.48907185;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1093"
+       width="1079.3499"
+       height="64.567947"
+       x="2.206954"
+       y="-151.98204"
+       ry="0" />
   </g>
 </svg>
