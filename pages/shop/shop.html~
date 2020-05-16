@@ -77,7 +77,7 @@ Current version is 2020.05.16.19.42
     <link rel="manifest" href="assets/manifest.json">
 
     <!-- Page title, appears inside the browsers tab or window. -->
-    <title>Digitech - Our Pholosophy</title>
+    <title>Digitech - Shop</title>
 
 </head>
 
@@ -85,7 +85,7 @@ Current version is 2020.05.16.19.42
 
     <nav>
 
-<!-- Start of the menu section for navigation. All pages are in pages directory, organized by category. -->
+<-- Start of the menu section for navigation. All pages are in pages directory, organized by category." -->
 
         <a href="index.html">Home</a>
         <a href="pages/shop/shop.html">Shop</a>
