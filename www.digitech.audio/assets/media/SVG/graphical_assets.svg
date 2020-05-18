@@ -27,6 +27,14 @@
   <defs
      id="defs2">
     <linearGradient
+       id="linearGradient1514"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0e232e;stop-opacity:1;"
+         offset="0"
+         id="stop1512" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient3714"
        osb:paint="solid">
       <stop
@@ -82,17 +90,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.0625"
-     inkscape:cx="11078.477"
-     inkscape:cy="2729.289"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="2221.3652"
+     inkscape:cy="1719.5082"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer16"
      showgrid="false"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="699"
+     inkscape:window-width="1400"
+     inkscape:window-height="954"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -655,7 +663,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Web site sketch"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer17"
@@ -753,110 +761,45 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.67123413px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61678088"
-           x="453.03183"
+           x="29.698496"
            y="449.9588"
            id="text1264"><tspan
              sodipodi:role="line"
              id="tspan1262"
-             x="453.03183"
+             x="29.698496"
              y="449.9588"
              style="font-weight:bold;stroke-width:0.61678088">Digitech</tspan><tspan
              sodipodi:role="line"
-             x="453.03183"
+             x="29.698496"
              y="480.79785"
              style="stroke-width:0.61678088"
              id="tspan1266">For 35 years providing the best</tspan><tspan
              sodipodi:role="line"
-             x="453.03183"
+             x="29.698496"
              y="511.6369"
              style="stroke-width:0.61678088"
              id="tspan1268">in audio for your studio.</tspan><tspan
              sodipodi:role="line"
-             x="453.03183"
+             x="29.698496"
              y="542.47595"
              style="stroke-width:0.61678088"
              id="tspan1270">A family owned company</tspan><tspan
              sodipodi:role="line"
-             x="453.03183"
+             x="29.698496"
              y="573.31494"
              style="stroke-width:0.61678088"
              id="tspan1272">focused on highest sound</tspan><tspan
              sodipodi:role="line"
-             x="453.03183"
+             x="29.698496"
              y="604.15399"
              style="stroke-width:0.61678088"
              id="tspan1198">fidelity.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.88520432px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16633514"
-           x="939.53735"
-           y="550.3092"
-           id="text1288"><tspan
-             sodipodi:role="line"
-             id="tspan1286"
-             x="939.53735"
-             y="550.3092"
-             style="stroke-width:0.16633514">Pages</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="576.41571"
-             style="stroke-width:0.16633514"
-             id="tspan1290">Articles</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="602.52222"
-             style="stroke-width:0.16633514"
-             id="tspan1292">Products</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="628.62872"
-             style="stroke-width:0.16633514"
-             id="tspan1294">Services</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="654.73523"
-             style="stroke-width:0.16633514"
-             id="tspan1296">News</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="680.84174"
-             style="stroke-width:0.16633514"
-             id="tspan1298">Calendar</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="706.94824"
-             style="stroke-width:0.16633514"
-             id="tspan1300">Meetings</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="733.05475"
-             style="stroke-width:0.16633514"
-             id="tspan1304" /><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="759.16125"
-             style="stroke-width:0.16633514"
-             id="tspan1308">Login</tspan><tspan
-             sodipodi:role="line"
-             x="939.53735"
-             y="785.26776"
-             style="stroke-width:0.16633514"
-             id="tspan1310">Register</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
          id="layer13"
          inkscape:label="SiteBackground"
          style="display:inline" />
-      <rect
-         y="851.69086"
-         x="-840.14093"
-         height="215.05373"
-         width="323.94528"
-         id="rect1319"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3.39903212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         ry="24.349258"
-         transform="rotate(-90)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -875,26 +818,8 @@
            height="64.567947"
            width="1079.3499"
            id="rect1192"
-           style="fill:#bdcdd4;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           style="fill:#bdcdd4;fill-opacity:1;stroke:#0e232e;stroke-width:3.58599997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
            transform="scale(1,-1)" />
-        <rect
-           y="-585.30908"
-           x="253.47646"
-           height="179.47525"
-           width="185.56389"
-           id="rect1558"
-           style="display:inline;opacity:1;fill:#bdcdd4;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           ry="3.7907889"
-           rx="7.9462996"
-           transform="scale(1,-1)" />
-        <rect
-           style="opacity:1;fill:#bdcdd4;fill-opacity:1;stroke:none;stroke-width:2.77252698;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           id="rect2214"
-           width="189.14973"
-           height="7.7938476"
-           x="251.68353"
-           y="403.59995"
-           ry="0" />
       </g>
       <g
          inkscape:groupmode="layer"
@@ -945,7 +870,7 @@
                sodipodi:role="line"
                x="346.17902"
                y="388.49112"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Shop</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Products</tspan></text>
         </g>
         <g
            style="display:inline"
@@ -968,7 +893,7 @@
                y="391.927"
                x="551.90723"
                id="tspan1370"
-               sodipodi:role="line">About</tspan></text>
+               sodipodi:role="line">Services</tspan></text>
         </g>
         <g
            style="display:inline"
@@ -979,7 +904,7 @@
              height="47.856358"
              width="173.82225"
              id="rect1158"
-             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58599997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              ry="10.701167" />
           <text
              xml:space="preserve"
@@ -993,52 +918,6 @@
                y="392.03784"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Contact</tspan></text>
         </g>
-        <g
-           style="display:inline"
-           id="g1587">
-          <rect
-             ry="10.701167"
-             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-             id="rect1566"
-             width="173.82225"
-             height="47.856354"
-             x="259.34729"
-             y="427.07187" />
-          <text
-             id="text1570"
-             y="459.8194"
-             x="346.17899"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388"
-               y="459.8194"
-               x="346.17899"
-               sodipodi:role="line"
-               id="tspan1568">Products</tspan></text>
-        </g>
-        <g
-           style="display:inline"
-           id="g1592">
-          <rect
-             y="511.05017"
-             x="259.34729"
-             height="47.856354"
-             width="173.82225"
-             id="rect1574"
-             style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-             ry="10.701167" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
-             x="346.17899"
-             y="543.79773"
-             id="text1578"><tspan
-               id="tspan1576"
-               sodipodi:role="line"
-               x="346.17899"
-               y="543.79773"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Services</tspan></text>
-        </g>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -1046,9 +925,12 @@
          inkscape:label="SiteLogo"
          style="display:inline">
         <g
-           transform="matrix(0.24670521,0,0,0.24670521,964.51586,321.70203)"
+           transform="matrix(0.24670521,0,0,0.24670521,964.51586,317.66747)"
            id="g3804-36"
-           style="display:inline">
+           style="display:inline"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/CloudFund19_2017074/www.digitech.audio/assets/media/images/dogitech_banner.png"
+           inkscape:export-xdpi="122.83045"
+           inkscape:export-ydpi="122.83045">
           <title
              id="title3806-7">SpeakerHead</title>
           <g
@@ -1161,32 +1043,38 @@
            x="2.3400404"
            y="87.526337"
            ry="0" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.85535431px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:15.36731911;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="374.11502"
-           y="272.21356"
-           id="text6513-3-0"><desc
-             id="desc6507-6-2">Elegant spaced logo</desc><title
-             id="title6509-7-3">DigiTech Audio Solution</title><tspan
-             sodipodi:role="line"
-             x="379.81378"
+        <g
+           id="g1526"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/CloudFund19_2017074/www.digitech.audio/assets/media/images/dogitech_banner.png"
+           inkscape:export-xdpi="122.83045"
+           inkscape:export-ydpi="122.83045">
+          <text
+             id="text6513-3-0"
              y="272.21356"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.7081337px;line-height:59.81918716px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:11.39752865px;word-spacing:15.95653915px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:15.36731911;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-             id="tspan6511-5-7">DigiTech</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.67116165px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:12.41809082;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="404.1188"
-           y="329.08395"
-           id="text6513-35-5"><desc
-             id="desc6507-62-9">Elegant spaced logo</desc><title
-             id="title6509-9-2">DigiTech Audio Solution</title><tspan
-             id="tspan929-2"
-             sodipodi:role="line"
-             x="408.72388"
+             x="374.11502"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.85535431px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:15.36731911;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             xml:space="preserve"><desc
+               id="desc6507-6-2">Elegant spaced logo</desc><title
+               id="title6509-7-3">DigiTech Audio Solution</title><tspan
+               id="tspan6511-5-7"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.7081337px;line-height:59.81918716px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:11.39752865px;word-spacing:15.95653915px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:15.36731911;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+               y="272.21356"
+               x="379.81378"
+               sodipodi:role="line">DigiTech</tspan></text>
+          <text
+             id="text6513-35-5"
              y="329.08395"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.20878983px;line-height:48.33894348px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:9.21016502px;word-spacing:12.89422989px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:12.41809082;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill">Audio Solutions</tspan></text>
+             x="375.10934"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.67116165px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:12.41809082;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             xml:space="preserve"><desc
+               id="desc6507-62-9">Elegant spaced logo</desc><title
+               id="title6509-9-2">DigiTech Audio Solution</title><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.20878983px;line-height:48.33894348px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:9.21016502px;word-spacing:12.89422989px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:12.41809082;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+               y="329.08395"
+               x="379.71442"
+               sodipodi:role="line"
+               id="tspan929-2">Audio Solutions</tspan></text>
+        </g>
       </g>
     </g>
   </g>
@@ -1194,7 +1082,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Web Browser"
-     style="display:none">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer18"
@@ -1734,7 +1622,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Products"
-     style="display:inline">
+     style="display:none">
     <g
        id="g822"
        inkscape:label="DigitechSpeaker"
