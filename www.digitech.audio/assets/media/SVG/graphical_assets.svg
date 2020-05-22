@@ -90,11 +90,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="2221.3652"
-     inkscape:cy="1719.5082"
+     inkscape:zoom="0.08838835"
+     inkscape:cx="-5358.5145"
+     inkscape:cy="3934.009"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer22"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:window-width="1400"
@@ -107,7 +107,7 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:lockguides="true"
      units="px"
      inkscape:object-paths="true"
@@ -150,6 +150,412 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer22"
+     inkscape:label="Background 1">
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1481"
+       width="1083.3633"
+       height="743.08313"
+       x="0.24899197"
+       y="218.94505"
+       ry="0"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="24.000002"
+       inkscape:export-ydpi="24.000002" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#2d2d2d;stroke-width:4.70534134;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1481-3"
+       width="900.35901"
+       height="791.841"
+       x="-1843.1234"
+       y="-448.34598"
+       ry="0"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903" />
+    <g
+       style="display:inline;fill:none;stroke:#2d2d2d;stroke-width:16.54976158;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="g1588-6"
+       transform="matrix(0.13239761,0,0,0.69299768,-1783.9507,-289.73122)"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903">
+      <rect
+         y="913.86346"
+         x="-456.47787"
+         height="142.59749"
+         width="6819.4336"
+         id="rect1321-7"
+         style="display:inline;opacity:1;fill:#bdcdd4;fill-opacity:1;stroke:#2d2d2d;stroke-width:16.54976158;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         ry="0"
+         rx="0" />
+    </g>
+    <text
+       transform="scale(0.96721593,1.0338953)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.30116844px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:0.20105383"
+       x="-1865.7552"
+       y="352.46542"
+       id="text1316-5"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903"><tspan
+         sodipodi:role="line"
+         id="tspan1314-3"
+         x="-1865.7552"
+         y="352.46542"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383">5463 Dublin R. North</tspan><tspan
+         sodipodi:role="line"
+         x="-1865.7552"
+         y="376.59189"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383"
+         id="tspan1320-5">O'Connel Village</tspan><tspan
+         id="tspan2055-6"
+         sodipodi:role="line"
+         x="-1865.7552"
+         y="400.71835"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383">Co. Dublin</tspan><tspan
+         sodipodi:role="line"
+         x="-1865.7552"
+         y="424.84482"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.08430481px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0e232e;stroke:none;stroke-width:0.20105383"
+         id="tspan1322-2">Ireland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.32898998px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20822473"
+       x="-1802.2733"
+       y="38.820015"
+       id="text1276-9"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903"><tspan
+         sodipodi:role="line"
+         id="tspan1274-1"
+         x="-1802.2733"
+         y="38.820015"
+         style="font-size:26.14490128px;stroke-width:0.20822473">Sound amplifiers, equalizers,</tspan><tspan
+         sodipodi:role="line"
+         x="-1802.2733"
+         y="71.501144"
+         style="font-size:26.14490128px;stroke-width:0.20822473"
+         id="tspan1282-2">sound tables, electronic drum kits</tspan><tspan
+         sodipodi:role="line"
+         x="-1802.2733"
+         y="104.18227"
+         style="font-size:26.14490128px;stroke-width:0.20822473"
+         id="tspan1278-7">reel to reel tapes and recorders,</tspan><tspan
+         sodipodi:role="line"
+         x="-1802.2733"
+         y="136.86339"
+         style="font-size:26.14490128px;stroke-width:0.20822473"
+         id="tspan1284-0">vinyl player, over the ear headphones</tspan><tspan
+         sodipodi:role="line"
+         x="-1802.2733"
+         y="169.54453"
+         style="font-size:26.14490128px;stroke-width:0.20822473"
+         id="tspan1280-9">and much more!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.67123604px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61678088"
+       x="-1803.6357"
+       y="-168.59654"
+       id="text1264-3"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903"><tspan
+         sodipodi:role="line"
+         id="tspan1262-6"
+         x="-1803.6357"
+         y="-168.59654"
+         style="font-weight:bold;stroke-width:0.61678088">Digitech</tspan><tspan
+         sodipodi:role="line"
+         x="-1803.6357"
+         y="-137.75749"
+         style="stroke-width:0.61678088"
+         id="tspan1266-0">For 35 years providing the best</tspan><tspan
+         sodipodi:role="line"
+         x="-1803.6357"
+         y="-106.91845"
+         style="stroke-width:0.61678088"
+         id="tspan1268-6">in audio for your studio.</tspan><tspan
+         sodipodi:role="line"
+         x="-1803.6357"
+         y="-76.079407"
+         style="stroke-width:0.61678088"
+         id="tspan1270-2">A family owned company</tspan><tspan
+         sodipodi:role="line"
+         x="-1803.6357"
+         y="-45.24036"
+         style="stroke-width:0.61678088"
+         id="tspan1272-6">focused on highest sound</tspan><tspan
+         sodipodi:role="line"
+         x="-1803.6357"
+         y="-14.401317"
+         style="stroke-width:0.61678088"
+         id="tspan1198-18">fidelity.</tspan></text>
+    <rect
+       ry="0"
+       y="205.4194"
+       x="-1841.042"
+       height="64.583687"
+       width="898.93677"
+       id="rect1192-7"
+       style="display:inline;fill:#bdcdd4;fill-opacity:1;stroke:#0e232e;stroke-width:4.55921984;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903" />
+    <g
+       transform="translate(-1873.5509,-618.55535)"
+       style="display:inline;opacity:1"
+       id="g1597-9"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903">
+      <rect
+         ry="10.701167"
+         style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1536-2"
+         width="173.82225"
+         height="47.856358"
+         x="53.941326"
+         y="355.74359" />
+      <text
+         id="text1364-0"
+         y="391.94284"
+         x="139.90837"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388"
+           y="391.94284"
+           x="139.90837"
+           id="tspan1362-2"
+           sodipodi:role="line">Home</tspan></text>
+    </g>
+    <g
+       transform="translate(-1873.5509,-618.55535)"
+       style="display:inline;opacity:1"
+       id="g1582-3"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903">
+      <rect
+         y="355.74359"
+         x="259.34729"
+         height="47.856358"
+         width="173.82225"
+         id="rect1530-7"
+         style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         ry="10.701167" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+         x="346.17902"
+         y="388.49112"
+         id="text1368-5"><tspan
+           id="tspan1382-9"
+           sodipodi:role="line"
+           x="346.17902"
+           y="388.49112"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Products</tspan></text>
+    </g>
+    <g
+       transform="translate(-1873.5509,-618.55535)"
+       style="display:inline;opacity:1"
+       id="g1577-22"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903">
+      <rect
+         ry="10.701167"
+         style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1528-89"
+         width="173.82225"
+         height="47.856358"
+         x="464.75317"
+         y="355.74359" />
+      <text
+         id="text1372-7"
+         y="391.927"
+         x="551.90723"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388"
+           y="391.927"
+           x="551.90723"
+           id="tspan1370-3"
+           sodipodi:role="line">Services</tspan></text>
+    </g>
+    <g
+       transform="translate(-1873.5509,-618.55535)"
+       style="display:inline;opacity:1"
+       id="g1572-6"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903">
+      <rect
+         y="355.74359"
+         x="670.15906"
+         height="47.856358"
+         width="173.82225"
+         id="rect1158-1"
+         style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58599997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         ry="10.701167" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#0e232e;stroke-width:0.16493388"
+         x="756.664"
+         y="392.03784"
+         id="text1376-2"><tspan
+           sodipodi:role="line"
+           id="tspan1374-9"
+           x="756.664"
+           y="392.03784"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.66731071px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#0e232e;stroke-width:0.16493388">Contact</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.24670521,0,0,0.24670521,-970.41833,-300.88787)"
+       id="g3804-36-3"
+       style="display:inline"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903">
+      <title
+         id="title3806-7-19">SpeakerHead</title>
+      <g
+         id="g3771-5-47"
+         style="image-rendering:auto">
+        <title
+           id="title3773-3-8">Headphones</title>
+        <path
+           transform="scale(-1)"
+           d="M 562.0986,138.42859 A 262.74146,262.74146 0 0 1 430.72787,365.96937 262.74146,262.74146 0 0 1 167.98641,365.96936 262.74146,262.74146 0 0 1 36.615692,138.42858 l 262.741458,1e-5 z"
+           sodipodi:end="3.1415927"
+           sodipodi:start="0"
+           sodipodi:ry="262.74146"
+           sodipodi:rx="262.74146"
+           sodipodi:cy="138.42859"
+           sodipodi:cx="299.35715"
+           sodipodi:type="arc"
+           style="fill:#666666;stroke:none;stroke-width:0.47895575"
+           id="circle3748-56-4" />
+        <circle
+           style="fill:#0e232e;stroke:none;stroke-width:0.26458332"
+           r="145.14285"
+           cy="-138.42856"
+           cx="-444.5"
+           id="path3742-2-5" />
+        <circle
+           id="circle3744-91-0"
+           cx="-154.21429"
+           cy="-138.42856"
+           r="145.14285"
+           style="fill:#364e59;stroke:none;stroke-width:0.26458332" />
+      </g>
+      <path
+         transform="scale(-1)"
+         d="m 523.61179,138.42859 a 224.25464,235.83107 0 0 1 -112.12733,204.2357 224.25464,235.83107 0 0 1 -224.25464,-10e-6 224.25464,235.83107 0 0 1 -112.127311,-204.2357 l 224.254641,1e-5 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="235.83107"
+         sodipodi:rx="224.25464"
+         sodipodi:cy="138.42859"
+         sodipodi:cx="299.35715"
+         sodipodi:type="arc"
+         style="fill:#999999;stroke:none;stroke-width:0.41921619"
+         id="path3750-2-3" />
+      <circle
+         style="fill:#9eabb0;stroke:none;stroke-width:0.4087975"
+         r="224.25464"
+         cy="-138.42857"
+         cx="-299.35715"
+         id="circle3746-7-6" />
+      <g
+         id="g3764-0-1"
+         transform="translate(-107.5916,-70.040352)">
+        <title
+           id="title3785-93-06">Pair Of Eyes</title>
+        <circle
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772"
+           r="70.040352"
+           cy="-138.42856"
+           cx="-299.35715"
+           id="circle3752-6-3" />
+        <circle
+           id="circle3754-0-2"
+           cx="-299.35715"
+           cy="-138.42854"
+           r="47.361782"
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658" />
+        <circle
+           id="circle3756-62-06"
+           cx="-84.173943"
+           cy="-138.42856"
+           r="70.040352"
+           style="fill:#0e232e;stroke:none;stroke-width:0.12767772" />
+        <circle
+           style="fill:#ffffff;stroke:none;stroke-width:0.08633658"
+           r="47.361782"
+           cy="-138.42854"
+           cx="-84.173943"
+           id="circle3758-6-1" />
+      </g>
+      <g
+         id="g3781-1-5">
+        <title
+           id="title3783-8-5">Speaker Mouth</title>
+        <circle
+           style="fill:#2d2d2d;stroke:none;stroke-width:0.17453101"
+           r="95.742737"
+           cy="-42.685822"
+           cx="-299.35715"
+           id="circle3766-7-4" />
+        <circle
+           id="circle3775-92-7"
+           cx="-299.35715"
+           cy="-42.685814"
+           r="73.064163"
+           style="fill:#666666;stroke:none;stroke-width:0.13318987" />
+      </g>
+    </g>
+    <g
+       transform="translate(-1934.9342,-618.55535)"
+       style="display:inline"
+       id="g1526-6"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="28.71903"
+       inkscape:export-ydpi="28.71903">
+      <text
+         id="text6513-3-0-5"
+         y="272.21356"
+         x="374.11502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.85535431px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:15.36731911;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         xml:space="preserve"><desc
+           id="desc6507-6-2-6">Elegant spaced logo</desc><title
+           id="title6509-7-3-9">DigiTech Audio Solution</title><tspan
+           id="tspan6511-5-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.7081337px;line-height:59.81918716px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:11.39752865px;word-spacing:15.95653915px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:15.36731911;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           y="272.21356"
+           x="379.81378"
+           sodipodi:role="line">DigiTech</tspan></text>
+      <text
+         id="text6513-35-5-7"
+         y="329.08395"
+         x="375.10934"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.67116165px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:12.41809082;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         xml:space="preserve"><desc
+           id="desc6507-62-9-4">Elegant spaced logo</desc><title
+           id="title6509-9-2-5">DigiTech Audio Solution</title><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.20878983px;line-height:48.33894348px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:9.21016502px;word-spacing:12.89422989px;text-anchor:middle;fill:#0e232e;fill-opacity:1;stroke:#ffffff;stroke-width:12.41809082;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           y="329.08395"
+           x="379.71442"
+           sodipodi:role="line"
+           id="tspan929-2-2">Audio Solutions</tspan></text>
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -670,16 +1076,19 @@
        inkscape:label="Footer"
        style="display:inline">
       <g
-         style="display:inline;fill:none;stroke:#0e232e;stroke-width:5.28075886;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+         style="display:inline;fill:none;stroke:#0e232e;stroke-width:15.08989025;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal;stroke-linejoin:round;stroke-linecap:round"
          id="g1588"
-         transform="matrix(0.15845744,0,0,0.69287551,74.632911,331.99037)">
+         transform="matrix(0.15845744,0,0,0.69287551,74.632911,331.99037)"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24.000002"
+         inkscape:export-ydpi="24.000002">
         <rect
            y="913.86346"
            x="-456.47787"
            height="142.59749"
            width="6819.4336"
            id="rect1321"
-           style="display:inline;opacity:1;fill:#bdcdd4;fill-opacity:1;stroke:#364e59;stroke-width:9.1093092;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           style="display:inline;opacity:1;fill:#bdcdd4;fill-opacity:1;stroke:#364e59;stroke-width:15.08989025;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            ry="0"
            rx="0" />
       </g>
@@ -694,7 +1103,10 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.30116653px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:0.20105383"
            x="80.603737"
            y="950.742"
-           id="text1316"><tspan
+           id="text1316"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002"><tspan
              sodipodi:role="line"
              id="tspan1314"
              x="80.603737"
@@ -732,7 +1144,10 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.32898998px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20822473"
            x="31.060911"
            y="657.37537"
-           id="text1276"><tspan
+           id="text1276"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002"><tspan
              sodipodi:role="line"
              id="tspan1274"
              x="31.060911"
@@ -763,7 +1178,10 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.67123413px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61678088"
            x="29.698496"
            y="449.9588"
-           id="text1264"><tspan
+           id="text1264"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002"><tspan
              sodipodi:role="line"
              id="tspan1262"
              x="29.698496"
@@ -819,7 +1237,10 @@
            width="1079.3499"
            id="rect1192"
            style="fill:#bdcdd4;fill-opacity:1;stroke:#0e232e;stroke-width:3.58599997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-           transform="scale(1,-1)" />
+           transform="scale(1,-1)"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002" />
       </g>
       <g
          inkscape:groupmode="layer"
@@ -828,7 +1249,10 @@
          style="display:inline;opacity:1">
         <g
            style="display:inline"
-           id="g1597">
+           id="g1597"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002">
           <rect
              ry="10.701167"
              style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -851,7 +1275,10 @@
         </g>
         <g
            style="display:inline"
-           id="g1582">
+           id="g1582"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002">
           <rect
              y="355.74359"
              x="259.34729"
@@ -874,7 +1301,10 @@
         </g>
         <g
            style="display:inline"
-           id="g1577">
+           id="g1577"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002">
           <rect
              ry="10.701167"
              style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -897,7 +1327,10 @@
         </g>
         <g
            style="display:inline"
-           id="g1572">
+           id="g1572"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002">
           <rect
              y="355.74359"
              x="670.15906"
@@ -928,9 +1361,9 @@
            transform="matrix(0.24670521,0,0,0.24670521,964.51586,317.66747)"
            id="g3804-36"
            style="display:inline"
-           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/CloudFund19_2017074/www.digitech.audio/assets/media/images/dogitech_banner.png"
-           inkscape:export-xdpi="122.83045"
-           inkscape:export-ydpi="122.83045">
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002">
           <title
              id="title3806-7">SpeakerHead</title>
           <g
@@ -1042,12 +1475,15 @@
            height="981.34857"
            x="2.3400404"
            y="87.526337"
-           ry="0" />
+           ry="0"
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24"
+           inkscape:export-ydpi="24" />
         <g
            id="g1526"
-           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/CloudFund19_2017074/www.digitech.audio/assets/media/images/dogitech_banner.png"
-           inkscape:export-xdpi="122.83045"
-           inkscape:export-ydpi="122.83045">
+           inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+           inkscape:export-xdpi="24.000002"
+           inkscape:export-ydpi="24.000002">
           <text
              id="text6513-3-0"
              y="272.21356"
@@ -1096,7 +1532,10 @@
          width="1079.512"
          id="rect991"
          style="fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:3.58584309;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         transform="scale(1,-1)" />
+         transform="scale(1,-1)"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <rect
          transform="scale(1,-1)"
          style="fill:none;fill-opacity:1;stroke:#0e232e;stroke-width:4.59408045;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -1105,7 +1544,10 @@
          height="61.124397"
          x="147.26689"
          y="-216.64801"
-         ry="0" />
+         ry="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <rect
          style="fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:2.58320236;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          id="rect1006"
@@ -1114,18 +1556,27 @@
          x="958.36237"
          y="157.16422"
          rx="0"
-         ry="0" />
+         ry="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <path
          style="fill:#ffffff;fill-opacity:1;stroke:#0e232e;stroke-width:2.10889935;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 968.30614,163.24279 v 42.95116 h 53.71966 53.7194 v -42.95116 h -53.7194 z"
          id="rect995"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.19227791px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b50000;fill-opacity:1;stroke:none;stroke-width:0.17980695"
          x="970.63568"
          y="198.11328"
-         id="text1013"><tspan
+         id="text1013"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24"><tspan
            sodipodi:role="line"
            id="tspan1011"
            x="970.63568"
@@ -1135,23 +1586,35 @@
          style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:2.0132072;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 113.79958,161.96294 v 13.06012 H 99.040286 v 19.39061 h 14.759294 v 13.06014 l 10.88566,-11.37755 10.88567,-11.37789 -10.88567,-11.37753 z"
          id="path1002-3"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <path
          inkscape:connector-curvature="0"
          id="path1185"
          d="m 34.580624,161.96294 v 13.06012 h 14.759292 v 19.39062 H 34.580624 v 13.06013 L 23.69495,196.09626 12.809296,184.71837 23.69495,173.34084 Z"
-         style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:2.0132072;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+         style="fill:#dc0000;fill-opacity:1;stroke:none;stroke-width:2.0132072;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#364e59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.21723747;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 74.453842,166.4542 c -1.758054,0.0194 -3.533168,0.28637 -5.275313,0.81839 -7.964135,2.43207 -13.316522,9.82734 -13.049011,18.03111 0.267544,8.20376 6.090535,15.24699 14.196705,17.17128 8.10617,1.92428 16.549785,-1.73218 20.586798,-8.91412 l 1.273072,-2.26413 -4.600936,-2.50629 -1.273083,2.26507 c -2.903285,5.16499 -8.923626,7.77145 -14.753291,6.38757 -5.829686,-1.38388 -9.981485,-6.40563 -10.173887,-12.30549 -0.19238,-5.89985 3.624144,-11.17226 9.351666,-12.9213 5.402494,-1.6498 11.204105,0.23398 14.559186,4.62487 H 78.97943 v 3.64101 h 9.972206 3.698918 v -3.64101 -9.81601 h -3.698918 v 6.0223 c -3.436269,-4.07239 -8.479341,-6.4337 -13.745528,-6.5864 -0.250321,-0.007 -0.50112,-0.01 -0.752266,-0.006 z"
          id="path1101"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:26.02148247px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:0.65053713"
          x="206.37852"
          y="193.9467"
-         id="text1080"><tspan
+         id="text1080"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24"><tspan
            sodipodi:role="line"
            id="tspan1078"
            x="206.37852"
@@ -1161,17 +1624,26 @@
          style="display:inline;fill:#009100;fill-opacity:1;stroke:none;stroke-width:0.74796587;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 190.584,173.43267 a 7.4926132,9.5738962 0 0 0 -7.49271,9.57383 h -1.99799 v 12.98718 h 18.98126 V 183.0065 h -1.99798 a 7.4926132,9.5738962 0 0 0 -7.49258,-9.57383 z m 0,2.83049 a 5.2774056,6.7433531 0 0 1 5.2774,6.74334 h -10.55483 a 5.2774056,6.7433531 0 0 1 5.27743,-6.74334 z"
          id="rect1082"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <path
          style="fill:none;fill-opacity:1;stroke:#364e59;stroke-width:3.24902415;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 176.78764,175.62029 a 6.0442427,7.2564313 0 0 1 -1.32767,1.37722 6.0442427,7.2564313 0 0 1 -0.31924,0.22133 6.0442427,7.2564313 0 0 1 -0.20809,0.13933 6.0442427,7.2564313 0 0 1 -0.32797,0.17739 6.0442427,7.2564313 0 0 1 -0.22387,0.11678 6.0442427,7.2564313 0 0 1 -0.33211,0.13383 6.0442427,7.2564313 0 0 1 -0.24422,0.0937 6.0442427,7.2564313 0 0 1 -0.3292,0.0899 6.0442427,7.2564313 0 0 1 -0.26122,0.0667 6.0442427,7.2564313 0 0 1 -0.32476,0.0483 6.0442427,7.2564313 0 0 1 -0.28525,0.0376 6.0442427,7.2564313 0 0 1 -0.3857,0.0174 6.0442427,7.2564313 0 0 1 -0.60343,-0.0376 6.0442427,7.2564313 0 0 1 -2.67449,-1.13089 6.0442427,7.2564313 0 0 1 -3.27777,1.16856 6.0442427,7.2564313 0 0 1 -4.56946,-2.51287 v 7.51235 a 7.847223,11.191797 0 0 0 7.84723,11.1918 7.847223,11.191797 0 0 0 7.84722,-11.1918 z"
          id="path1041"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <path
          style="fill:#364e59;fill-opacity:1;stroke:#364e59;stroke-width:0.39760381;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 167.31611,181.37133 c 0.0625,0 0.1241,0.007 0.18525,0.0148 v 9.36627 c -0.0612,0.008 -0.12272,0.0145 -0.18525,0.0145 -1.18317,0 -2.13572,-1.50567 -2.13572,-3.37622 v -2.6427 c 0,-1.87055 0.95255,-3.37661 2.13572,-3.37661 z"
          id="rect1080"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1186,11 +1658,17 @@
          height="66.092392"
          x="2.0587335"
          y="-153.63524"
-         ry="0" />
+         ry="0"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24" />
       <g
          style="display:inline"
          id="g485"
-         transform="matrix(0.62866828,0,0,0.62866828,309.01004,232.84103)">
+         transform="matrix(0.62866828,0,0,0.62866828,309.01004,232.84103)"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24">
         <rect
            ry="0"
            y="128.61949"
@@ -1575,7 +2053,10 @@
       <g
          style="display:inline;fill:#ffffff;stroke:none"
          id="g1406"
-         transform="matrix(1.2167597,0,0,1.2167597,-14.571162,-16.370263)">
+         transform="matrix(1.2167597,0,0,1.2167597,-14.571162,-16.370263)"
+         inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+         inkscape:export-xdpi="24"
+         inkscape:export-ydpi="24">
         <g
            id="g1180"
            transform="matrix(-0.36655374,0.36655374,0.36655374,0.36655374,390.86948,-105.93868)"
@@ -1616,7 +2097,10 @@
        height="64.99617"
        x="2.2110693"
        y="-151.97792"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/media/reglnx/Sync/Study/CCT/2020/Cloud Computing Fundamentals and Platforms/CA2/dogitech_mockup_site.png"
+       inkscape:export-xdpi="24"
+       inkscape:export-ydpi="24" />
   </g>
   <g
      inkscape:groupmode="layer"
